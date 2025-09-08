@@ -1,0 +1,852 @@
+Provincia,Fecha,Descripción,Ámbito
+ALAVA,01/01/2024,Año nuevo,national
+ALAVA,06/01/2024,Epifanía del Señor,national
+ALAVA,28/03/2024,Jueves Santo,regional
+ALAVA,29/03/2024,Viernes Santo,national
+ALAVA,01/04/2024,Lunes de Pascua,regional
+ALAVA,28/04/2024,San Prudencio(se traslada al lunes),local
+ALAVA,01/05/2024,Día del Trabajo,national
+ALAVA,25/07/2024,Santiago Apostol,regional
+ALAVA,05/08/2024,Virgen Blanca,local
+ALAVA,15/08/2024,Asunción de la Virgen,national
+ALAVA,12/10/2024,Fiesta Nacional Española,national
+ALAVA,01/11/2024,Día de Todos los Santos,national
+ALAVA,06/12/2024,Día de la Constitución Española,national
+ALAVA,25/12/2024,Navidad,national
+ALBACETE,01/01/2024,Año nuevo,national
+ALBACETE,06/01/2024,Epifanía del Señor,national
+ALBACETE,28/03/2024,Jueves Santo,regional
+ALBACETE,29/03/2024,Viernes Santo,national
+ALBACETE,01/05/2024,Día del Trabajo,national
+ALBACETE,30/05/2024,Corpus Christi,regional
+ALBACETE,31/05/2024,Día de la Región de Castilla la Mancha,regional
+ALBACETE,24/06/2024,San Juan,local
+ALBACETE,15/08/2024,Asunción de la Virgen,national
+ALBACETE,08/09/2024,Virgen de los Llanos(se traslada al lunes),local
+ALBACETE,12/10/2024,Fiesta Nacional Española,national
+ALBACETE,01/11/2024,Día de Todos los Santos,national
+ALBACETE,06/12/2024,Día de la Constitución Española,national
+ALBACETE,25/12/2024,Navidad,national
+ALICANTE,01/01/2024,Año nuevo,national
+ALICANTE,06/01/2024,Epifanía del Señor,national
+ALICANTE,19/03/2024,San José,regional
+ALICANTE,29/03/2024,Viernes Santo,national
+ALICANTE,01/04/2024,Lunes de Pascua,regional
+ALICANTE,11/04/2024,Santa Faz,local
+ALICANTE,01/05/2024,Día del Trabajo,national
+ALICANTE,24/06/2024,San Juan,local
+ALICANTE,15/08/2024,Asunción de la Virgen,national
+ALICANTE,09/10/2024,Día de la Comunidad Valenciana,regional
+ALICANTE,12/10/2024,Fiesta Nacional Española,national
+ALICANTE,01/11/2024,Día de Todos los Santos,national
+ALICANTE,06/12/2024,Día de la Constitución Española,national
+ALICANTE,25/12/2024,Navidad,national
+ALMERIA,01/01/2024,Año nuevo,national
+ALMERIA,06/01/2024,Epifanía del Señor,national
+ALMERIA,28/02/2024,Día de Andalucía,regional
+ALMERIA,28/03/2024,Jueves Santo,regional
+ALMERIA,29/03/2024,Viernes Santo,national
+ALMERIA,01/05/2024,Día del Trabajo,national
+ALMERIA,24/06/2024,San Juan,local
+ALMERIA,15/08/2024,Asunción de la Virgen,national
+ALMERIA,24/08/2024,Virgen del Mar,local
+ALMERIA,12/10/2024,Fiesta Nacional Española,national
+ALMERIA,01/11/2024,Día de Todos los Santos,national
+ALMERIA,06/12/2024,Día de la Constitución Española,national
+ALMERIA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+ALMERIA,25/12/2024,Navidad,national
+ASTURIAS,01/01/2024,Año nuevo,national
+ASTURIAS,06/01/2024,Epifanía del Señor,national
+ASTURIAS,28/03/2024,Jueves Santo,regional
+ASTURIAS,29/03/2024,Viernes Santo,national
+ASTURIAS,01/05/2024,Día del Trabajo,national
+ASTURIAS,15/08/2024,Asunción de la Virgen,national
+ASTURIAS,08/09/2024,Día de Asturias(se traslada al lunes),regional
+ASTURIAS,21/09/2024,San Mateo,local
+ASTURIAS,12/10/2024,Fiesta Nacional Española,national
+ASTURIAS,01/11/2024,Día de Todos los Santos,national
+ASTURIAS,06/12/2024,Día de la Constitución Española,national
+ASTURIAS,25/12/2024,Navidad,national
+AVILA,01/01/2024,Año nuevo,national
+AVILA,06/01/2024,Epifanía del Señor,national
+AVILA,28/03/2024,Jueves Santo,regional
+AVILA,29/03/2024,Viernes Santo,national
+AVILA,23/04/2024,Día de Castilla León,regional
+AVILA,01/05/2024,Día del Trabajo,national
+AVILA,02/05/2024,San Segundo,local
+AVILA,15/08/2024,Asunción de la Virgen,national
+AVILA,12/10/2024,Fiesta Nacional Española,national
+AVILA,15/10/2024,Santa Teresa de Jesús,local
+AVILA,01/11/2024,Día de Todos los Santos,national
+AVILA,06/12/2024,Día de la Constitución Española,national
+AVILA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+AVILA,25/12/2024,Navidad,national
+BADAJOZ,01/01/2024,Año nuevo,national
+BADAJOZ,06/01/2024,Epifanía del Señor,national
+BADAJOZ,13/02/2024,Martes de Carnaval,regional
+BADAJOZ,19/03/2024,San José,local
+BADAJOZ,28/03/2024,Jueves Santo,regional
+BADAJOZ,29/03/2024,Viernes Santo,national
+BADAJOZ,01/05/2024,Día del Trabajo,national
+BADAJOZ,24/06/2024,San Juan,local
+BADAJOZ,15/08/2024,Asunción de la Virgen,national
+BADAJOZ,12/10/2024,Fiesta Nacional Española,national
+BADAJOZ,01/11/2024,Día de Todos los Santos,national
+BADAJOZ,06/12/2024,Día de la Constitución Española,national
+BADAJOZ,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+BADAJOZ,25/12/2024,Navidad,national
+BALEARES,01/01/2024,Año nuevo,national
+BALEARES,06/01/2024,Epifanía del Señor,national
+BALEARES,20/01/2024,San Sebastián,local
+BALEARES,01/03/2024,Día de las Islas Baleares,regional
+BALEARES,28/03/2024,Jueves Santo,regional
+BALEARES,29/03/2024,Viernes Santo,national
+BALEARES,01/04/2024,Lunes de Pascua,regional
+BALEARES,01/05/2024,Día del Trabajo,national
+BALEARES,24/06/2024,San Juan,local
+BALEARES,15/08/2024,Asunción de la Virgen,national
+BALEARES,12/10/2024,Fiesta Nacional Española,national
+BALEARES,01/11/2024,Día de Todos los Santos,national
+BALEARES,06/12/2024,Día de la Constitución Española,national
+BALEARES,25/12/2024,Navidad,national
+BARCELONA,01/01/2024,Año nuevo,national
+BARCELONA,06/01/2024,Epifanía del Señor,national
+BARCELONA,29/03/2024,Viernes Santo,national
+BARCELONA,01/04/2024,Lunes de Pascua,regional
+BARCELONA,01/05/2024,Día del Trabajo,national
+BARCELONA,20/05/2024,Lunes de Pascua Granada,local
+BARCELONA,24/06/2024,San Juan,regional
+BARCELONA,15/08/2024,Asunción de la Virgen,national
+BARCELONA,11/09/2024,Diada,regional
+BARCELONA,24/09/2024,La Mercè,local
+BARCELONA,12/10/2024,Fiesta Nacional Española,national
+BARCELONA,01/11/2024,Día de Todos los Santos,national
+BARCELONA,06/12/2024,Día de la Constitución Española,national
+BARCELONA,25/12/2024,Navidad,national
+BARCELONA,26/12/2024,San Esteban,regional
+BILBAO,01/01/2024,Año nuevo,national
+BILBAO,06/01/2024,Epifanía del Señor,national
+BILBAO,28/03/2024,Jueves Santo,regional
+BILBAO,29/03/2024,Viernes Santo,national
+BILBAO,01/04/2024,Lunes de Pascua,regional
+BILBAO,01/05/2024,Día del Trabajo,national
+BILBAO,25/07/2024,Santiago Apostol,regional
+BILBAO,31/07/2024,San Ignacio de Loyola,local
+BILBAO,15/08/2024,Asunción de la Virgen,national
+BILBAO,23/08/2024,Viernes de la Semana Grande,local
+BILBAO,12/10/2024,Fiesta Nacional Española,national
+BILBAO,01/11/2024,Día de Todos los Santos,national
+BILBAO,06/12/2024,Día de la Constitución Española,national
+BILBAO,25/12/2024,Navidad,national
+BURGOS,01/01/2024,Año nuevo,national
+BURGOS,06/01/2024,Epifanía del Señor,national
+BURGOS,28/03/2024,Jueves Santo,regional
+BURGOS,29/03/2024,Viernes Santo,national
+BURGOS,23/04/2024,Día de Castilla León,regional
+BURGOS,01/05/2024,Día del Trabajo,national
+BURGOS,07/06/2024,Curpillos,local
+BURGOS,29/06/2024,San Pedro,local
+BURGOS,15/08/2024,Asunción de la Virgen,national
+BURGOS,12/10/2024,Fiesta Nacional Española,national
+BURGOS,01/11/2024,Día de Todos los Santos,national
+BURGOS,06/12/2024,Día de la Constitución Española,national
+BURGOS,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+BURGOS,25/12/2024,Navidad,national
+CACERES,01/01/2024,Año nuevo,national
+CACERES,06/01/2024,Epifanía del Señor,national
+CACERES,13/02/2024,Martes de Carnaval,regional
+CACERES,28/03/2024,Jueves Santo,regional
+CACERES,29/03/2024,Viernes Santo,national
+CACERES,23/04/2024,San Jorge,local
+CACERES,01/05/2024,Día del Trabajo,national
+CACERES,31/05/2024,Fiestas de San Fernando,local
+CACERES,15/08/2024,Asunción de la Virgen,national
+CACERES,12/10/2024,Fiesta Nacional Española,national
+CACERES,01/11/2024,Día de Todos los Santos,national
+CACERES,06/12/2024,Día de la Constitución Española,national
+CACERES,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+CACERES,25/12/2024,Navidad,national
+CADIZ,01/01/2024,Año nuevo,national
+CADIZ,06/01/2024,Epifanía del Señor,national
+CADIZ,12/02/2024,Lunes de Carnaval,local
+CADIZ,28/02/2024,Día de Andalucía,regional
+CADIZ,28/03/2024,Jueves Santo,regional
+CADIZ,29/03/2024,Viernes Santo,national
+CADIZ,01/05/2024,Día del Trabajo,national
+CADIZ,15/08/2024,Asunción de la Virgen,national
+CADIZ,07/10/2024,Virgen del Rosario,local
+CADIZ,12/10/2024,Fiesta Nacional Española,national
+CADIZ,01/11/2024,Día de Todos los Santos,national
+CADIZ,06/12/2024,Día de la Constitución Española,national
+CADIZ,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+CADIZ,25/12/2024,Navidad,national
+CANTABRIA,01/01/2024,Año nuevo,national
+CANTABRIA,06/01/2024,Epifanía del Señor,national
+CANTABRIA,28/03/2024,Jueves Santo,regional
+CANTABRIA,29/03/2024,Viernes Santo,national
+CANTABRIA,01/04/2024,Lunes de Pascua,regional
+CANTABRIA,01/05/2024,Día del Trabajo,national
+CANTABRIA,25/07/2024,Santiago Apostol,local
+CANTABRIA,28/07/2024,Día de las Instituciones(se traslada al lunes),regional
+CANTABRIA,15/08/2024,Asunción de la Virgen,national
+CANTABRIA,15/09/2024,Día de la Bien Aparecida(se traslada al lunes),regional
+CANTABRIA,12/10/2024,Fiesta Nacional Española,national
+CANTABRIA,01/11/2024,Día de Todos los Santos,national
+CANTABRIA,06/12/2024,Día de la Constitución Española,national
+CANTABRIA,25/12/2024,Navidad,national
+CASTELLON,01/01/2024,Año nuevo,national
+CASTELLON,06/01/2024,Epifanía del Señor,national
+CASTELLON,04/03/2024,Fiestas de la Magdalena,local
+CASTELLON,19/03/2024,San José,regional
+CASTELLON,29/03/2024,Viernes Santo,national
+CASTELLON,01/04/2024,Lunes de Pascua,regional
+CASTELLON,01/05/2024,Día del Trabajo,national
+CASTELLON,29/06/2024,San Pedro,local
+CASTELLON,15/08/2024,Asunción de la Virgen,national
+CASTELLON,09/10/2024,Día de la Comunidad Valenciana,regional
+CASTELLON,12/10/2024,Fiesta Nacional Española,national
+CASTELLON,01/11/2024,Día de Todos los Santos,national
+CASTELLON,06/12/2024,Día de la Constitución Española,national
+CASTELLON,25/12/2024,Navidad,national
+CEUTA,01/01/2024,Año nuevo,national
+CEUTA,06/01/2024,Epifanía del Señor,national
+CEUTA,28/03/2024,Jueves Santo,regional
+CEUTA,29/03/2024,Viernes Santo,national
+CEUTA,01/05/2024,Día del Trabajo,national
+CEUTA,13/06/2024,San Antonio,local
+CEUTA,17/06/2024,Fiesta del Sacrificio,regional
+CEUTA,05/08/2024,Nuestra Señora de África,local
+CEUTA,15/08/2024,Asunción de la Virgen,national
+CEUTA,02/09/2024,Día de Ceuta,regional
+CEUTA,12/10/2024,Fiesta Nacional Española,national
+CEUTA,01/11/2024,Día de Todos los Santos,national
+CEUTA,06/12/2024,Día de la Constitución Española,national
+CEUTA,25/12/2024,Navidad,national
+CIUDAD_REAL,01/01/2024,Año nuevo,national
+CIUDAD_REAL,06/01/2024,Epifanía del Señor,national
+CIUDAD_REAL,28/03/2024,Jueves Santo,regional
+CIUDAD_REAL,29/03/2024,Viernes Santo,national
+CIUDAD_REAL,01/05/2024,Día del Trabajo,national
+CIUDAD_REAL,20/05/2024,Nuestra Señora de Alarcos,local
+CIUDAD_REAL,30/05/2024,Corpus Christi,regional
+CIUDAD_REAL,31/05/2024,Día de la Región de Castilla la Mancha,regional
+CIUDAD_REAL,15/08/2024,Asunción de la Virgen,national
+CIUDAD_REAL,22/08/2024,Octava de la Virgen del Prado,local
+CIUDAD_REAL,12/10/2024,Fiesta Nacional Española,national
+CIUDAD_REAL,01/11/2024,Día de Todos los Santos,national
+CIUDAD_REAL,06/12/2024,Día de la Constitución Española,national
+CIUDAD_REAL,25/12/2024,Navidad,national
+CORDOBA,01/01/2024,Año nuevo,national
+CORDOBA,06/01/2024,Epifanía del Señor,national
+CORDOBA,28/02/2024,Día de Andalucía,regional
+CORDOBA,28/03/2024,Jueves Santo,regional
+CORDOBA,29/03/2024,Viernes Santo,national
+CORDOBA,01/05/2024,Día del Trabajo,national
+CORDOBA,15/08/2024,Asunción de la Virgen,national
+CORDOBA,08/09/2024,Virgen de Guadalupe(se traslada al lunes),local
+CORDOBA,12/10/2024,Fiesta Nacional Española,national
+CORDOBA,24/10/2024,San Rafael,local
+CORDOBA,01/11/2024,Día de Todos los Santos,national
+CORDOBA,06/12/2024,Día de la Constitución Española,national
+CORDOBA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+CORDOBA,25/12/2024,Navidad,national
+LA_CORUNA,01/01/2024,Año nuevo,national
+LA_CORUNA,06/01/2024,Epifanía del Señor,national
+LA_CORUNA,13/02/2024,Martes de Carnaval,local
+LA_CORUNA,28/03/2024,Jueves Santo,regional
+LA_CORUNA,29/03/2024,Viernes Santo,national
+LA_CORUNA,01/05/2024,Día del Trabajo,national
+LA_CORUNA,17/05/2024,Día de las letras gallegas,regional
+LA_CORUNA,24/06/2024,San Juan,local
+LA_CORUNA,25/07/2024,Santiago Apostol,regional
+LA_CORUNA,15/08/2024,Asunción de la Virgen,national
+LA_CORUNA,12/10/2024,Fiesta Nacional Española,national
+LA_CORUNA,01/11/2024,Día de Todos los Santos,national
+LA_CORUNA,06/12/2024,Día de la Constitución Española,national
+LA_CORUNA,25/12/2024,Navidad,national
+CUENCA,01/01/2024,Año nuevo,national
+CUENCA,06/01/2024,Epifanía del Señor,national
+CUENCA,28/03/2024,Jueves Santo,regional
+CUENCA,29/03/2024,Viernes Santo,national
+CUENCA,01/05/2024,Día del Trabajo,national
+CUENCA,30/05/2024,Corpus Christi,regional
+CUENCA,31/05/2024,Día de la Región de Castilla la Mancha,regional
+CUENCA,01/06/2024,Virgen de la Luz,local
+CUENCA,15/08/2024,Asunción de la Virgen,national
+CUENCA,21/09/2024,San Mateo,local
+CUENCA,12/10/2024,Fiesta Nacional Española,national
+CUENCA,01/11/2024,Día de Todos los Santos,national
+CUENCA,06/12/2024,Día de la Constitución Española,national
+CUENCA,25/12/2024,Navidad,national
+GIJON,01/01/2024,Año nuevo,national
+GIJON,06/01/2024,Epifanía del Señor,national
+GIJON,13/02/2024,Carnaval,local
+GIJON,28/03/2024,Jueves Santo,regional
+GIJON,29/03/2024,Viernes Santo,national
+GIJON,01/05/2024,Día del Trabajo,national
+GIJON,29/06/2024,San Pedro,local
+GIJON,15/08/2024,Asunción de la Virgen,national
+GIJON,08/09/2024,Día de Asturias(se traslada al lunes),regional
+GIJON,12/10/2024,Fiesta Nacional Española,national
+GIJON,01/11/2024,Día de Todos los Santos,national
+GIJON,06/12/2024,Día de la Constitución Española,national
+GIJON,25/12/2024,Navidad,national
+GIRONA,01/01/2024,Año nuevo,national
+GIRONA,06/01/2024,Epifanía del Señor,national
+GIRONA,29/03/2024,Viernes Santo,national
+GIRONA,01/04/2024,Lunes de Pascua,regional
+GIRONA,01/05/2024,Día del Trabajo,national
+GIRONA,24/06/2024,San Juan,regional
+GIRONA,25/07/2024,Sant Jaume,local
+GIRONA,15/08/2024,Asunción de la Virgen,national
+GIRONA,11/09/2024,Diada,regional
+GIRONA,12/10/2024,Fiesta Nacional Española,national
+GIRONA,29/10/2024,Sant Narcís,local
+GIRONA,01/11/2024,Día de Todos los Santos,national
+GIRONA,06/12/2024,Día de la Constitución Española,national
+GIRONA,25/12/2024,Navidad,national
+GIRONA,26/12/2024,San Esteban,regional
+GRANADA,01/01/2024,Año nuevo,national
+GRANADA,02/01/2024,Toma de Granada,local
+GRANADA,06/01/2024,Epifanía del Señor,national
+GRANADA,28/02/2024,Día de Andalucía,regional
+GRANADA,28/03/2024,Jueves Santo,regional
+GRANADA,29/03/2024,Viernes Santo,national
+GRANADA,01/05/2024,Día del Trabajo,national
+GRANADA,30/05/2024,Corpus Christi,local
+GRANADA,15/08/2024,Asunción de la Virgen,national
+GRANADA,12/10/2024,Fiesta Nacional Española,national
+GRANADA,01/11/2024,Día de Todos los Santos,national
+GRANADA,06/12/2024,Día de la Constitución Española,national
+GRANADA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+GRANADA,25/12/2024,Navidad,national
+GUADALAJARA,01/01/2024,Año nuevo,national
+GUADALAJARA,06/01/2024,Epifanía del Señor,national
+GUADALAJARA,28/03/2024,Jueves Santo,regional
+GUADALAJARA,29/03/2024,Viernes Santo,national
+GUADALAJARA,01/05/2024,Día del Trabajo,national
+GUADALAJARA,30/05/2024,Corpus Christi,regional
+GUADALAJARA,31/05/2024,Día de la Región de Castilla la Mancha,regional
+GUADALAJARA,15/08/2024,Asunción de la Virgen,national
+GUADALAJARA,12/09/2024,Fiesta local,local
+GUADALAJARA,13/09/2024,Fiesta local,local
+GUADALAJARA,12/10/2024,Fiesta Nacional Española,national
+GUADALAJARA,01/11/2024,Día de Todos los Santos,national
+GUADALAJARA,06/12/2024,Día de la Constitución Española,national
+GUADALAJARA,25/12/2024,Navidad,national
+GUIPUZCOA,01/01/2024,Año nuevo,national
+GUIPUZCOA,06/01/2024,Epifanía del Señor,national
+GUIPUZCOA,20/01/2024,San Sebastián,local
+GUIPUZCOA,28/03/2024,Jueves Santo,regional
+GUIPUZCOA,29/03/2024,Viernes Santo,national
+GUIPUZCOA,01/04/2024,Lunes de Pascua,regional
+GUIPUZCOA,01/05/2024,Día del Trabajo,national
+GUIPUZCOA,25/07/2024,Santiago Apostol,regional
+GUIPUZCOA,31/07/2024,San Ignacio de Loyola,local
+GUIPUZCOA,15/08/2024,Asunción de la Virgen,national
+GUIPUZCOA,09/09/2024,Ntra. Sra. De Aranzazu,local
+GUIPUZCOA,12/10/2024,Fiesta Nacional Española,national
+GUIPUZCOA,01/11/2024,Día de Todos los Santos,national
+GUIPUZCOA,06/12/2024,Día de la Constitución Española,national
+GUIPUZCOA,25/12/2024,Navidad,national
+HUELVA,01/01/2024,Año nuevo,national
+HUELVA,06/01/2024,Epifanía del Señor,national
+HUELVA,28/02/2024,Día de Andalucía,regional
+HUELVA,28/03/2024,Jueves Santo,regional
+HUELVA,29/03/2024,Viernes Santo,national
+HUELVA,01/05/2024,Día del Trabajo,national
+HUELVA,03/08/2024,Fiestas Colombinas,local
+HUELVA,15/08/2024,Asunción de la Virgen,national
+HUELVA,08/09/2024,Nuestra Señora de la Cinta(se traslada al lunes),local
+HUELVA,12/10/2024,Fiesta Nacional Española,national
+HUELVA,01/11/2024,Día de Todos los Santos,national
+HUELVA,06/12/2024,Día de la Constitución Española,national
+HUELVA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+HUELVA,25/12/2024,Navidad,national
+HUESCA,01/01/2024,Año nuevo,national
+HUESCA,06/01/2024,Epifanía del Señor,national
+HUESCA,22/01/2024,San Vicente,local
+HUESCA,28/03/2024,Jueves Santo,regional
+HUESCA,29/03/2024,Viernes Santo,national
+HUESCA,23/04/2024,San Jorge. Día de Aragón,regional
+HUESCA,01/05/2024,Día del Trabajo,national
+HUESCA,10/08/2024,San Lorenzo,local
+HUESCA,15/08/2024,Asunción de la Virgen,national
+HUESCA,12/10/2024,Fiesta Nacional Española,national
+HUESCA,01/11/2024,Día de Todos los Santos,national
+HUESCA,06/12/2024,Día de la Constitución Española,national
+HUESCA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+HUESCA,25/12/2024,Navidad,national
+JAEN,01/01/2024,Año nuevo,national
+JAEN,06/01/2024,Epifanía del Señor,national
+JAEN,28/02/2024,Día de Andalucía,regional
+JAEN,28/03/2024,Jueves Santo,regional
+JAEN,29/03/2024,Viernes Santo,national
+JAEN,01/05/2024,Día del Trabajo,national
+JAEN,11/06/2024,Virgen de la Capilla,local
+JAEN,15/08/2024,Asunción de la Virgen,national
+JAEN,12/10/2024,Fiesta Nacional Española,national
+JAEN,18/10/2024,San Lucas,local
+JAEN,01/11/2024,Día de Todos los Santos,national
+JAEN,06/12/2024,Día de la Constitución Española,national
+JAEN,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+JAEN,25/12/2024,Navidad,national
+LEON,01/01/2024,Año nuevo,national
+LEON,06/01/2024,Epifanía del Señor,national
+LEON,28/03/2024,Jueves Santo,regional
+LEON,29/03/2024,Viernes Santo,national
+LEON,23/04/2024,Día de Castilla León,regional
+LEON,01/05/2024,Día del Trabajo,national
+LEON,24/06/2024,San Juan,local
+LEON,15/08/2024,Asunción de la Virgen,national
+LEON,05/10/2024,San Froilán,local
+LEON,12/10/2024,Fiesta Nacional Española,national
+LEON,01/11/2024,Día de Todos los Santos,national
+LEON,06/12/2024,Día de la Constitución Española,national
+LEON,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+LEON,25/12/2024,Navidad,national
+LLEIDA,01/01/2024,Año nuevo,national
+LLEIDA,06/01/2024,Epifanía del Señor,national
+LLEIDA,29/03/2024,Viernes Santo,national
+LLEIDA,01/04/2024,Lunes de Pascua,regional
+LLEIDA,01/05/2024,Día del Trabajo,national
+LLEIDA,11/05/2024,Sant Anastasi,local
+LLEIDA,24/06/2024,San Juan,regional
+LLEIDA,15/08/2024,Asunción de la Virgen,national
+LLEIDA,11/09/2024,Diada,regional
+LLEIDA,29/09/2024,San Miguel(se traslada al lunes),local
+LLEIDA,12/10/2024,Fiesta Nacional Española,national
+LLEIDA,01/11/2024,Día de Todos los Santos,national
+LLEIDA,06/12/2024,Día de la Constitución Española,national
+LLEIDA,25/12/2024,Navidad,national
+LLEIDA,26/12/2024,San Esteban,regional
+LOGRONO,01/01/2024,Año nuevo,national
+LOGRONO,06/01/2024,Epifanía del Señor,national
+LOGRONO,28/03/2024,Jueves Santo,regional
+LOGRONO,29/03/2024,Viernes Santo,national
+LOGRONO,01/04/2024,Lunes de Pascua,regional
+LOGRONO,01/05/2024,Día del Trabajo,national
+LOGRONO,09/06/2024,Día de La Rioja(se traslada al lunes),regional
+LOGRONO,11/06/2024,San Bernabé,local
+LOGRONO,15/08/2024,Asunción de la Virgen,national
+LOGRONO,21/09/2024,San Mateo,local
+LOGRONO,12/10/2024,Fiesta Nacional Española,national
+LOGRONO,01/11/2024,Día de Todos los Santos,national
+LOGRONO,06/12/2024,Día de la Constitución Española,national
+LOGRONO,25/12/2024,Navidad,national
+LUGO,01/01/2024,Año nuevo,national
+LUGO,06/01/2024,Epifanía del Señor,national
+LUGO,13/02/2024,Martes de Carnaval,local
+LUGO,28/03/2024,Jueves Santo,regional
+LUGO,29/03/2024,Viernes Santo,national
+LUGO,01/05/2024,Día del Trabajo,national
+LUGO,17/05/2024,Día de las letras gallegas,regional
+LUGO,25/07/2024,Santiago Apostol,regional
+LUGO,15/08/2024,Asunción de la Virgen,national
+LUGO,05/10/2024,San Froilán,local
+LUGO,12/10/2024,Fiesta Nacional Española,national
+LUGO,01/11/2024,Día de Todos los Santos,national
+LUGO,06/12/2024,Día de la Constitución Española,national
+LUGO,25/12/2024,Navidad,national
+MADRID,01/01/2024,Año nuevo,national
+MADRID,06/01/2024,Epifanía del Señor,national
+MADRID,28/03/2024,Jueves Santo,regional
+MADRID,29/03/2024,Viernes Santo,national
+MADRID,01/05/2024,Día del Trabajo,national
+MADRID,02/05/2024,Día de la Comunidad de Madrid,regional
+MADRID,15/05/2024,San Isidro Labrador,local
+MADRID,25/07/2024,Santiago Apóstol,regional
+MADRID,15/08/2024,Asunción de la Virgen,national
+MADRID,12/10/2024,Fiesta Nacional Española,national
+MADRID,01/11/2024,Día de Todos los Santos,national
+MADRID,09/11/2024,Nuestra Señora de la Almudena,local
+MADRID,06/12/2024,Día de la Constitución Española,national
+MADRID,25/12/2024,Navidad,national
+MALAGA,01/01/2024,Año nuevo,national
+MALAGA,06/01/2024,Epifanía del Señor,national
+MALAGA,28/02/2024,Día de Andalucía,regional
+MALAGA,28/03/2024,Jueves Santo,regional
+MALAGA,29/03/2024,Viernes Santo,national
+MALAGA,01/05/2024,Día del Trabajo,national
+MALAGA,15/08/2024,Asunción de la Virgen,national
+MALAGA,19/08/2024,Toma de Málaga por los Reyes Católicos,local
+MALAGA,08/09/2024,Virgen de la Victoria(se traslada al lunes),local
+MALAGA,12/10/2024,Fiesta Nacional Española,national
+MALAGA,01/11/2024,Día de Todos los Santos,national
+MALAGA,06/12/2024,Día de la Constitución Española,national
+MALAGA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+MALAGA,25/12/2024,Navidad,national
+MELILLA,01/01/2024,Año nuevo,national
+MELILLA,06/01/2024,Epifanía del Señor,national
+MELILLA,28/03/2024,Jueves Santo,regional
+MELILLA,29/03/2024,Viernes Santo,national
+MELILLA,10/04/2024,Fiesta del Eid Fitr,regional
+MELILLA,01/05/2024,Día del Trabajo,national
+MELILLA,17/06/2024,Fiesta del Sacrificio,regional
+MELILLA,15/08/2024,Asunción de la Virgen,national
+MELILLA,17/09/2024,Día de Melilla,local
+MELILLA,12/10/2024,Fiesta Nacional Española,national
+MELILLA,01/11/2024,Día de Todos los Santos,national
+MELILLA,06/12/2024,Día de la Constitución Española,national
+MELILLA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+MELILLA,25/12/2024,Navidad,national
+MURCIA,01/01/2024,Año nuevo,national
+MURCIA,06/01/2024,Epifanía del Señor,national
+MURCIA,19/03/2024,San José,regional
+MURCIA,28/03/2024,Jueves Santo,regional
+MURCIA,29/03/2024,Viernes Santo,national
+MURCIA,02/04/2024,Bando de la Huerta,local
+MURCIA,01/05/2024,Día del Trabajo,national
+MURCIA,15/08/2024,Asunción de la Virgen,national
+MURCIA,17/09/2024,Romería,local
+MURCIA,12/10/2024,Fiesta Nacional Española,national
+MURCIA,01/11/2024,Día de Todos los Santos,national
+MURCIA,06/12/2024,Día de la Constitución Española,national
+MURCIA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+MURCIA,25/12/2024,Navidad,national
+NAVARRA,01/01/2024,Año nuevo,national
+NAVARRA,06/01/2024,Epifanía del Señor,national
+NAVARRA,28/03/2024,Jueves Santo,regional
+NAVARRA,29/03/2024,Viernes Santo,national
+NAVARRA,01/04/2024,Lunes de Pascua,regional
+NAVARRA,01/05/2024,Día del Trabajo,national
+NAVARRA,25/07/2024,Santiago Apostol,regional
+NAVARRA,15/08/2024,Asunción de la Virgen,national
+NAVARRA,12/10/2024,Fiesta Nacional Española,national
+NAVARRA,01/11/2024,Día de Todos los Santos,national
+NAVARRA,06/12/2024,Día de la Constitución Española,national
+NAVARRA,25/12/2024,Navidad,national
+OURENSE,01/01/2024,Año nuevo,national
+OURENSE,06/01/2024,Epifanía del Señor,national
+OURENSE,13/02/2024,Martes de Carnaval,local
+OURENSE,28/03/2024,Jueves Santo,regional
+OURENSE,29/03/2024,Viernes Santo,national
+OURENSE,01/05/2024,Día del Trabajo,national
+OURENSE,17/05/2024,Día de las letras gallegas,regional
+OURENSE,25/07/2024,Santiago Apostol,regional
+OURENSE,15/08/2024,Asunción de la Virgen,national
+OURENSE,12/10/2024,Fiesta Nacional Española,national
+OURENSE,01/11/2024,Día de Todos los Santos,national
+OURENSE,11/11/2024,San Martín,local
+OURENSE,06/12/2024,Día de la Constitución Española,national
+OURENSE,25/12/2024,Navidad,national
+OVIEDO,01/01/2024,Año nuevo,national
+OVIEDO,06/01/2024,Epifanía del Señor,national
+OVIEDO,28/03/2024,Jueves Santo,regional
+OVIEDO,29/03/2024,Viernes Santo,national
+OVIEDO,01/05/2024,Día del Trabajo,national
+OVIEDO,21/05/2024,Martes del Campo,local
+OVIEDO,15/08/2024,Asunción de la Virgen,national
+OVIEDO,08/09/2024,Día de Asturias(se traslada al lunes),regional
+OVIEDO,21/09/2024,San Mateo,local
+OVIEDO,12/10/2024,Fiesta Nacional Española,national
+OVIEDO,01/11/2024,Día de Todos los Santos,national
+OVIEDO,06/12/2024,Día de la Constitución Española,national
+OVIEDO,25/12/2024,Navidad,national
+PALENCIA,01/01/2024,Año nuevo,national
+PALENCIA,06/01/2024,Epifanía del Señor,national
+PALENCIA,02/02/2024,Virgen de la Calle,local
+PALENCIA,28/03/2024,Jueves Santo,regional
+PALENCIA,29/03/2024,Viernes Santo,national
+PALENCIA,23/04/2024,Día de Castilla León,regional
+PALENCIA,01/05/2024,Día del Trabajo,national
+PALENCIA,15/08/2024,Asunción de la Virgen,national
+PALENCIA,02/09/2024,San Antolín,local
+PALENCIA,12/10/2024,Fiesta Nacional Española,national
+PALENCIA,01/11/2024,Día de Todos los Santos,national
+PALENCIA,06/12/2024,Día de la Constitución Española,national
+PALENCIA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+PALENCIA,25/12/2024,Navidad,national
+PALMA_DE_MALLORCA,01/01/2024,Año nuevo,national
+PALMA_DE_MALLORCA,06/01/2024,Epifanía del Señor,national
+PALMA_DE_MALLORCA,01/03/2024,Día de las Islas Baleares,regional
+PALMA_DE_MALLORCA,28/03/2024,Jueves Santo,regional
+PALMA_DE_MALLORCA,29/03/2024,Viernes Santo,national
+PALMA_DE_MALLORCA,01/04/2024,Lunes de Pascua,regional
+PALMA_DE_MALLORCA,01/05/2024,Día del Trabajo,national
+PALMA_DE_MALLORCA,24/06/2024,San Juan,local
+PALMA_DE_MALLORCA,15/08/2024,Asunción de la Virgen,national
+PALMA_DE_MALLORCA,12/10/2024,Fiesta Nacional Española,national
+PALMA_DE_MALLORCA,01/11/2024,Día de Todos los Santos,national
+PALMA_DE_MALLORCA,06/12/2024,Día de la Constitución Española,national
+PALMA_DE_MALLORCA,25/12/2024,Navidad,national
+PALMA_DE_MALLORCA,26/12/2024,San Esteban,local
+LAS_PALMAS,01/01/2024,Año nuevo,national
+LAS_PALMAS,06/01/2024,Epifanía del Señor,national
+LAS_PALMAS,13/02/2024,Martes de Carnaval,local
+LAS_PALMAS,28/03/2024,Jueves Santo,regional
+LAS_PALMAS,29/03/2024,Viernes Santo,national
+LAS_PALMAS,01/05/2024,Día del Trabajo,national
+LAS_PALMAS,30/05/2024,Día de Canarias,regional
+LAS_PALMAS,24/06/2024,San Juan,local
+LAS_PALMAS,15/08/2024,Asunción de la Virgen,national
+LAS_PALMAS,08/09/2024,Nuestra Señora del Pino (Toda la isla)(se traslada al lunes),local
+LAS_PALMAS,12/10/2024,Fiesta Nacional Española,national
+LAS_PALMAS,01/11/2024,Día de Todos los Santos,national
+LAS_PALMAS,06/12/2024,Día de la Constitución Española,national
+LAS_PALMAS,25/12/2024,Navidad,national
+PAMPLONA,01/01/2024,Año nuevo,national
+PAMPLONA,06/01/2024,Epifanía del Señor,national
+PAMPLONA,28/03/2024,Jueves Santo,regional
+PAMPLONA,29/03/2024,Viernes Santo,national
+PAMPLONA,01/04/2024,Lunes de Pascua,regional
+PAMPLONA,01/05/2024,Día del Trabajo,national
+PAMPLONA,25/07/2024,Santiago Apostol,regional
+PAMPLONA,15/08/2024,Asunción de la Virgen,national
+PAMPLONA,12/10/2024,Fiesta Nacional Española,national
+PAMPLONA,01/11/2024,Día de Todos los Santos,national
+PAMPLONA,29/11/2024,San Saturnino,local
+PAMPLONA,03/12/2024,San Francisco Javier,local
+PAMPLONA,06/12/2024,Día de la Constitución Española,national
+PAMPLONA,25/12/2024,Navidad,national
+PONTEVEDRA,01/01/2024,Año nuevo,national
+PONTEVEDRA,06/01/2024,Epifanía del Señor,national
+PONTEVEDRA,28/03/2024,Jueves Santo,regional
+PONTEVEDRA,29/03/2024,Viernes Santo,national
+PONTEVEDRA,01/05/2024,Día del Trabajo,national
+PONTEVEDRA,17/05/2024,Día de las letras gallegas,regional
+PONTEVEDRA,11/07/2024,San Bieito,local
+PONTEVEDRA,25/07/2024,Santiago Apostol,regional
+PONTEVEDRA,15/08/2024,Asunción de la Virgen,national
+PONTEVEDRA,12/10/2024,Fiesta Nacional Española,national
+PONTEVEDRA,01/11/2024,Día de Todos los Santos,national
+PONTEVEDRA,06/12/2024,Día de la Constitución Española,national
+PONTEVEDRA,25/12/2024,Navidad,national
+LA_RIOJA,01/01/2024,Año nuevo,national
+LA_RIOJA,06/01/2024,Epifanía del Señor,national
+LA_RIOJA,28/03/2024,Jueves Santo,regional
+LA_RIOJA,29/03/2024,Viernes Santo,national
+LA_RIOJA,01/04/2024,Lunes de Pascua,regional
+LA_RIOJA,01/05/2024,Día del Trabajo,national
+LA_RIOJA,09/06/2024,Día de La Rioja(se traslada al lunes),regional
+LA_RIOJA,15/08/2024,Asunción de la Virgen,national
+LA_RIOJA,12/10/2024,Fiesta Nacional Española,national
+LA_RIOJA,01/11/2024,Día de Todos los Santos,national
+LA_RIOJA,06/12/2024,Día de la Constitución Española,national
+LA_RIOJA,25/12/2024,Navidad,national
+SALAMANCA,01/01/2024,Año nuevo,national
+SALAMANCA,06/01/2024,Epifanía del Señor,national
+SALAMANCA,28/03/2024,Jueves Santo,regional
+SALAMANCA,29/03/2024,Viernes Santo,national
+SALAMANCA,23/04/2024,Día de Castilla León,regional
+SALAMANCA,01/05/2024,Día del Trabajo,national
+SALAMANCA,12/06/2024,San Juan de Sahagún,local
+SALAMANCA,15/08/2024,Asunción de la Virgen,national
+SALAMANCA,08/09/2024,Virgen de la Vega(se traslada al lunes),local
+SALAMANCA,12/10/2024,Fiesta Nacional Española,national
+SALAMANCA,01/11/2024,Día de Todos los Santos,national
+SALAMANCA,06/12/2024,Día de la Constitución Española,national
+SALAMANCA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+SALAMANCA,25/12/2024,Navidad,national
+SAN_SEBASTIAN,01/01/2024,Año nuevo,national
+SAN_SEBASTIAN,06/01/2024,Epifanía del Señor,national
+SAN_SEBASTIAN,20/01/2024,San Sebastián,local
+SAN_SEBASTIAN,28/03/2024,Jueves Santo,regional
+SAN_SEBASTIAN,29/03/2024,Viernes Santo,national
+SAN_SEBASTIAN,01/04/2024,Lunes de Pascua,regional
+SAN_SEBASTIAN,01/05/2024,Día del Trabajo,national
+SAN_SEBASTIAN,25/07/2024,Santiago Apostol,regional
+SAN_SEBASTIAN,31/07/2024,San Ignacio de Loyola,local
+SAN_SEBASTIAN,15/08/2024,Asunción de la Virgen,national
+SAN_SEBASTIAN,12/10/2024,Fiesta Nacional Española,national
+SAN_SEBASTIAN,01/11/2024,Día de Todos los Santos,national
+SAN_SEBASTIAN,06/12/2024,Día de la Constitución Española,national
+SAN_SEBASTIAN,25/12/2024,Navidad,national
+SANTANDER,01/01/2024,Año nuevo,national
+SANTANDER,06/01/2024,Epifanía del Señor,national
+SANTANDER,28/03/2024,Jueves Santo,regional
+SANTANDER,29/03/2024,Viernes Santo,national
+SANTANDER,01/04/2024,Lunes de Pascua,regional
+SANTANDER,01/05/2024,Día del Trabajo,national
+SANTANDER,20/05/2024,Virgen del Mar,local
+SANTANDER,25/07/2024,Día del Apóstol Santiago,regional
+SANTANDER,28/07/2024,Día de las Instituciones(se traslada al lunes),regional
+SANTANDER,15/08/2024,Asunción de la Virgen,national
+SANTANDER,30/08/2024,Santos Mártires,local
+SANTANDER,15/09/2024,Día de la Bien Aparecida(se traslada al lunes),regional
+SANTANDER,12/10/2024,Fiesta Nacional Española,national
+SANTANDER,01/11/2024,Día de Todos los Santos,national
+SANTANDER,06/12/2024,Día de la Constitución Española,national
+SANTANDER,25/12/2024,Navidad,national
+SEGOVIA,01/01/2024,Año nuevo,national
+SEGOVIA,06/01/2024,Epifanía del Señor,national
+SEGOVIA,28/03/2024,Jueves Santo,regional
+SEGOVIA,29/03/2024,Viernes Santo,national
+SEGOVIA,23/04/2024,Día de Castilla León,regional
+SEGOVIA,01/05/2024,Día del Trabajo,national
+SEGOVIA,24/06/2024,San Juan,local
+SEGOVIA,15/08/2024,Asunción de la Virgen,national
+SEGOVIA,12/10/2024,Fiesta Nacional Española,national
+SEGOVIA,25/10/2024,San Frutos,local
+SEGOVIA,01/11/2024,Día de Todos los Santos,national
+SEGOVIA,06/12/2024,Día de la Constitución Española,national
+SEGOVIA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+SEGOVIA,25/12/2024,Navidad,national
+SEVILLA,01/01/2024,Año nuevo,national
+SEVILLA,06/01/2024,Epifanía del Señor,national
+SEVILLA,28/02/2024,Día de Andalucía,regional
+SEVILLA,28/03/2024,Jueves Santo,regional
+SEVILLA,29/03/2024,Viernes Santo,national
+SEVILLA,17/04/2024,Miércoles de Feria,local
+SEVILLA,01/05/2024,Día del Trabajo,national
+SEVILLA,30/05/2024,Corpus Christi,local
+SEVILLA,15/08/2024,Asunción de la Virgen,national
+SEVILLA,12/10/2024,Fiesta Nacional Española,national
+SEVILLA,01/11/2024,Día de Todos los Santos,national
+SEVILLA,06/12/2024,Día de la Constitución Española,national
+SEVILLA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+SEVILLA,25/12/2024,Navidad,national
+SORIA,01/01/2024,Año nuevo,national
+SORIA,06/01/2024,Epifanía del Señor,national
+SORIA,28/03/2024,Jueves Santo,regional
+SORIA,29/03/2024,Viernes Santo,national
+SORIA,23/04/2024,Día de Castilla León,regional
+SORIA,01/05/2024,Día del Trabajo,national
+SORIA,27/06/2024,Jueves la Saca,local
+SORIA,15/08/2024,Asunción de la Virgen,national
+SORIA,03/10/2024,San Saturio,local
+SORIA,12/10/2024,Fiesta Nacional Española,national
+SORIA,01/11/2024,Día de Todos los Santos,national
+SORIA,06/12/2024,Día de la Constitución Española,national
+SORIA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+SORIA,25/12/2024,Navidad,national
+TARRAGONA,01/01/2024,Año nuevo,national
+TARRAGONA,06/01/2024,Epifanía del Señor,national
+TARRAGONA,29/03/2024,Viernes Santo,national
+TARRAGONA,01/04/2024,Lunes de Pascua,regional
+TARRAGONA,01/05/2024,Día del Trabajo,national
+TARRAGONA,24/06/2024,San Juan,regional
+TARRAGONA,15/08/2024,Asunción de la Virgen,national
+TARRAGONA,19/08/2024,Sant Magí,local
+TARRAGONA,11/09/2024,Diada,regional
+TARRAGONA,23/09/2024,La Mercè,local
+TARRAGONA,12/10/2024,Fiesta Nacional Española,national
+TARRAGONA,01/11/2024,Día de Todos los Santos,national
+TARRAGONA,06/12/2024,Día de la Constitución Española,national
+TARRAGONA,25/12/2024,Navidad,national
+TARRAGONA,26/12/2024,San Esteban,regional
+TENERIFE,01/01/2024,Año nuevo,national
+TENERIFE,06/01/2024,Epifanía del Señor,national
+TENERIFE,02/02/2024,Virgen de la Candelaria (toda la isla),local
+TENERIFE,13/02/2024,Martes de Carnaval,local
+TENERIFE,28/03/2024,Jueves Santo,regional
+TENERIFE,29/03/2024,Viernes Santo,national
+TENERIFE,01/05/2024,Día del Trabajo,national
+TENERIFE,03/05/2024,Día de la Cruz,local
+TENERIFE,30/05/2024,Día de Canarias,regional
+TENERIFE,15/08/2024,Asunción de la Virgen,national
+TENERIFE,12/10/2024,Fiesta Nacional Española,national
+TENERIFE,01/11/2024,Día de Todos los Santos,national
+TENERIFE,06/12/2024,Día de la Constitución Española,national
+TENERIFE,25/12/2024,Navidad,national
+TERUEL,01/01/2024,Año nuevo,national
+TERUEL,06/01/2024,Epifanía del Señor,national
+TERUEL,28/03/2024,Jueves Santo,regional
+TERUEL,29/03/2024,Viernes Santo,national
+TERUEL,02/04/2024,Sermón de las Tortillas,local
+TERUEL,23/04/2024,San Jorge. Día de Aragón,regional
+TERUEL,01/05/2024,Día del Trabajo,national
+TERUEL,08/07/2024,Vaquilla del Ángel,local
+TERUEL,15/08/2024,Asunción de la Virgen,national
+TERUEL,12/10/2024,Fiesta Nacional Española,national
+TERUEL,01/11/2024,Día de Todos los Santos,national
+TERUEL,06/12/2024,Día de la Constitución Española,national
+TERUEL,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+TERUEL,25/12/2024,Navidad,national
+TOLEDO,01/01/2024,Año nuevo,national
+TOLEDO,06/01/2024,Epifanía del Señor,national
+TOLEDO,23/01/2024,San Ildefonso,local
+TOLEDO,28/03/2024,Jueves Santo,regional
+TOLEDO,29/03/2024,Viernes Santo,national
+TOLEDO,01/04/2024,Lunes de Pascua,local
+TOLEDO,01/05/2024,Día del Trabajo,national
+TOLEDO,30/05/2024,Corpus Christi,regional
+TOLEDO,31/05/2024,Día de la Región de Castilla la Mancha,regional
+TOLEDO,15/08/2024,Asunción de la Virgen,national
+TOLEDO,12/10/2024,Fiesta Nacional Española,national
+TOLEDO,01/11/2024,Día de Todos los Santos,national
+TOLEDO,06/12/2024,Día de la Constitución Española,national
+TOLEDO,25/12/2024,Navidad,national
+VALENCIA,01/01/2024,Año nuevo,national
+VALENCIA,06/01/2024,Epifanía del Señor,national
+VALENCIA,22/01/2024,San Vicente Ferrer,local
+VALENCIA,19/03/2024,San José,regional
+VALENCIA,29/03/2024,Viernes Santo,national
+VALENCIA,01/04/2024,Lunes de Pascua,regional
+VALENCIA,08/04/2024,San Vicente Ferrer,local
+VALENCIA,01/05/2024,Día del Trabajo,national
+VALENCIA,15/08/2024,Asunción de la Virgen,national
+VALENCIA,09/10/2024,Día de la Comunidad Valenciana,regional
+VALENCIA,12/10/2024,Fiesta Nacional Española,national
+VALENCIA,01/11/2024,Día de Todos los Santos,national
+VALENCIA,06/12/2024,Día de la Constitución Española,national
+VALENCIA,25/12/2024,Navidad,national
+VALLADOLID,01/01/2024,Año nuevo,national
+VALLADOLID,06/01/2024,Epifanía del Señor,national
+VALLADOLID,28/03/2024,Jueves Santo,regional
+VALLADOLID,29/03/2024,Viernes Santo,national
+VALLADOLID,23/04/2024,Día de Castilla León,regional
+VALLADOLID,01/05/2024,Día del Trabajo,national
+VALLADOLID,13/05/2024,San Pedro Regalado,local
+VALLADOLID,15/08/2024,Asunción de la Virgen,national
+VALLADOLID,08/09/2024,Nuestra Sra. de San Lorenzo(se traslada al lunes),local
+VALLADOLID,12/10/2024,Fiesta Nacional Española,national
+VALLADOLID,01/11/2024,Día de Todos los Santos,national
+VALLADOLID,06/12/2024,Día de la Constitución Española,national
+VALLADOLID,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+VALLADOLID,25/12/2024,Navidad,national
+VITORIA,01/01/2024,Año nuevo,national
+VITORIA,06/01/2024,Epifanía del Señor,national
+VITORIA,28/03/2024,Jueves Santo,regional
+VITORIA,29/03/2024,Viernes Santo,national
+VITORIA,01/04/2024,Lunes de Pascua,regional
+VITORIA,28/04/2024,San Prudencio(se traslada al lunes),local
+VITORIA,01/05/2024,Día del Trabajo,national
+VITORIA,25/07/2024,Santiago Apostol,regional
+VITORIA,05/08/2024,Virgen Blanca,local
+VITORIA,15/08/2024,Asunción de la Virgen,national
+VITORIA,12/10/2024,Fiesta Nacional Española,national
+VITORIA,01/11/2024,Día de Todos los Santos,national
+VITORIA,06/12/2024,Día de la Constitución Española,national
+VITORIA,25/12/2024,Navidad,national
+VIZCAYA,01/01/2024,Año nuevo,national
+VIZCAYA,06/01/2024,Epifanía del Señor,national
+VIZCAYA,28/03/2024,Jueves Santo,regional
+VIZCAYA,29/03/2024,Viernes Santo,national
+VIZCAYA,01/04/2024,Lunes de Pascua,regional
+VIZCAYA,01/05/2024,Día del Trabajo,national
+VIZCAYA,25/07/2024,Santiago Apostol,regional
+VIZCAYA,31/07/2024,San Ignacio de Loyola,local
+VIZCAYA,15/08/2024,Asunción de la Virgen,national
+VIZCAYA,12/10/2024,Fiesta Nacional Española,national
+VIZCAYA,01/11/2024,Día de Todos los Santos,national
+VIZCAYA,06/12/2024,Día de la Constitución Española,national
+VIZCAYA,25/12/2024,Navidad,national
+ZAMORA,01/01/2024,Año nuevo,national
+ZAMORA,06/01/2024,Epifanía del Señor,national
+ZAMORA,28/03/2024,Jueves Santo,regional
+ZAMORA,29/03/2024,Viernes Santo,national
+ZAMORA,23/04/2024,Día de Castilla León,regional
+ZAMORA,01/05/2024,Día del Trabajo,national
+ZAMORA,20/05/2024,La Hiniesta,local
+ZAMORA,29/06/2024,San Pedro,local
+ZAMORA,15/08/2024,Asunción de la Virgen,national
+ZAMORA,12/10/2024,Fiesta Nacional Española,national
+ZAMORA,01/11/2024,Día de Todos los Santos,national
+ZAMORA,06/12/2024,Día de la Constitución Española,national
+ZAMORA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+ZAMORA,25/12/2024,Navidad,national
+ZARAGOZA,01/01/2024,Año nuevo,national
+ZARAGOZA,06/01/2024,Epifanía del Señor,national
+ZARAGOZA,29/01/2024,San Valero,local
+ZARAGOZA,05/03/2024,Cincomarzada,local
+ZARAGOZA,28/03/2024,Jueves Santo,regional
+ZARAGOZA,29/03/2024,Viernes Santo,national
+ZARAGOZA,23/04/2024,San Jorge. Día de Aragón,regional
+ZARAGOZA,01/05/2024,Día del Trabajo,national
+ZARAGOZA,15/08/2024,Asunción de la Virgen,national
+ZARAGOZA,12/10/2024,Fiesta Nacional Española,national
+ZARAGOZA,01/11/2024,Día de Todos los Santos,national
+ZARAGOZA,06/12/2024,Día de la Constitución Española,national
+ZARAGOZA,08/12/2024,Día de la Inmaculada(se traslada al lunes),regional
+ZARAGOZA,25/12/2024,Navidad,national

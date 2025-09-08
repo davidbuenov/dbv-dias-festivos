@@ -1,0 +1,848 @@
+Provincia,Fecha,Descripción,Ámbito
+ALAVA,06/01/2023,Día de Reyes,national
+ALAVA,06/04/2023,Jueves Santo,regional
+ALAVA,07/04/2023,Viernes Santo,national
+ALAVA,10/04/2023,Lunes de Pascua,regional
+ALAVA,28/04/2023,San Prudencio,local
+ALAVA,01/05/2023,Día Del Trabajo,national
+ALAVA,25/07/2023,Santiago Apostol,regional
+ALAVA,05/08/2023,La Blanca,local
+ALAVA,15/08/2023,Asunción de la Virgen,national
+ALAVA,12/10/2023,Fiesta Nacional Española,national
+ALAVA,01/11/2023,Día de Todos los Santos,national
+ALAVA,06/12/2023,Día de la Constitución Española,national
+ALAVA,08/12/2023,Inmaculada Concepción,national
+ALAVA,25/12/2023,Navidad,national
+ALBACETE,06/01/2023,Día de Reyes,national
+ALBACETE,06/04/2023,Jueves Santo,regional
+ALBACETE,07/04/2023,Viernes Santo,national
+ALBACETE,01/05/2023,Día Del Trabajo,national
+ALBACETE,31/05/2023,Día de la Región de Castilla la Mancha,regional
+ALBACETE,08/06/2023,Corpus Christi,regional
+ALBACETE,24/06/2023,San Juan,local
+ALBACETE,15/08/2023,Asunción de la Virgen,national
+ALBACETE,08/09/2023,Virgen de los Llanos,local
+ALBACETE,12/10/2023,Fiesta Nacional Española,national
+ALBACETE,01/11/2023,Día de Todos los Santos,national
+ALBACETE,06/12/2023,Día de la Constitución Española,national
+ALBACETE,08/12/2023,Inmaculada Concepción,national
+ALBACETE,25/12/2023,Navidad,national
+ALICANTE,06/01/2023,Día de Reyes,national
+ALICANTE,07/04/2023,Viernes Santo,national
+ALICANTE,10/04/2023,Lunes de Pascua,regional
+ALICANTE,20/04/2023,Santa Faz,local
+ALICANTE,01/05/2023,Día Del Trabajo,national
+ALICANTE,23/06/2023,Víspera de San Juan,local
+ALICANTE,24/06/2023,San juan,regional
+ALICANTE,15/08/2023,Asunción de la Virgen,national
+ALICANTE,09/10/2023,Día de la Comunidad Valenciana,regional
+ALICANTE,12/10/2023,Fiesta Nacional Española,national
+ALICANTE,01/11/2023,Día de Todos los Santos,national
+ALICANTE,06/12/2023,Día de la Constitución Española,national
+ALICANTE,08/12/2023,Inmaculada Concepción,national
+ALICANTE,25/12/2023,Navidad,national
+ALMERIA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+ALMERIA,06/01/2023,Día de Reyes,national
+ALMERIA,28/02/2023,Día de Andalucía,regional
+ALMERIA,06/04/2023,Jueves Santo,regional
+ALMERIA,07/04/2023,Viernes Santo,national
+ALMERIA,01/05/2023,Día Del Trabajo,national
+ALMERIA,15/08/2023,Asunción de la Virgen,national
+ALMERIA,26/08/2023,Virgen del Mar,local
+ALMERIA,12/10/2023,Fiesta Nacional Española,national
+ALMERIA,01/11/2023,Día de Todos los Santos,national
+ALMERIA,06/12/2023,Día de la Constitución Española,national
+ALMERIA,08/12/2023,Inmaculada Concepción,national
+ALMERIA,25/12/2023,Navidad,national
+ALMERIA,26/12/2023,San Esteban,local
+ASTURIAS,01/01/2023,Año Nuevo(se traslada al lunes),regional
+ASTURIAS,06/01/2023,Día de Reyes,national
+ASTURIAS,06/04/2023,Jueves Santo,regional
+ASTURIAS,07/04/2023,Viernes Santo,national
+ASTURIAS,01/05/2023,Día Del Trabajo,national
+ASTURIAS,15/08/2023,Asunción de la Virgen,national
+ASTURIAS,08/09/2023,Día de Asturias,regional
+ASTURIAS,21/09/2023,San Mateo,local
+ASTURIAS,12/10/2023,Fiesta Nacional Española,national
+ASTURIAS,01/11/2023,Día de Todos los Santos,national
+ASTURIAS,06/12/2023,Día de la Constitución Española,national
+ASTURIAS,08/12/2023,Inmaculada Concepción,national
+ASTURIAS,25/12/2023,Navidad,national
+AVILA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+AVILA,06/01/2023,Día de Reyes,national
+AVILA,06/04/2023,Jueves Santo,regional
+AVILA,07/04/2023,Viernes Santo,national
+AVILA,01/05/2023,Día Del Trabajo,national
+AVILA,02/05/2023,San Segundo,local
+AVILA,25/07/2023,Santiago Apostol,regional
+AVILA,15/08/2023,Asunción de la Virgen,national
+AVILA,12/10/2023,Fiesta Nacional Española,national
+AVILA,15/10/2023,Santa Teresa de Jesús(se traslada al lunes),local
+AVILA,01/11/2023,Día de Todos los Santos,national
+AVILA,06/12/2023,Día de la Constitución Española,national
+AVILA,08/12/2023,Inmaculada Concepción,national
+AVILA,25/12/2023,Navidad,national
+BADAJOZ,06/01/2023,Día de Reyes,national
+BADAJOZ,21/02/2023,Martes de Carnaval,regional
+BADAJOZ,19/03/2023,San José(se traslada al lunes),local
+BADAJOZ,06/04/2023,Jueves Santo,regional
+BADAJOZ,07/04/2023,Viernes Santo,national
+BADAJOZ,01/05/2023,Día Del Trabajo,national
+BADAJOZ,24/06/2023,San Juan,local
+BADAJOZ,15/08/2023,Asunción de la Virgen,national
+BADAJOZ,08/09/2023,Día de Extremadura,regional
+BADAJOZ,12/10/2023,Fiesta Nacional Española,national
+BADAJOZ,01/11/2023,Día de Todos los Santos,national
+BADAJOZ,06/12/2023,Día de la Constitución Española,national
+BADAJOZ,08/12/2023,Inmaculada Concepción,national
+BADAJOZ,25/12/2023,Navidad,national
+BALEARES,06/01/2023,Día de Reyes,national
+BALEARES,01/03/2023,Día de las Islas Baleares,regional
+BALEARES,06/04/2023,Jueves Santo,regional
+BALEARES,07/04/2023,Viernes Santo,national
+BALEARES,10/04/2023,Lunes de Pascua,regional
+BALEARES,01/05/2023,Día Del Trabajo,national
+BALEARES,15/08/2023,Asunción de la Virgen,national
+BALEARES,12/10/2023,Fiesta Nacional Española,national
+BALEARES,01/11/2023,Día de Todos los Santos,national
+BALEARES,06/12/2023,Día de la Constitución Española,national
+BALEARES,08/12/2023,Inmaculada Concepción,national
+BALEARES,25/12/2023,Navidad,national
+BARCELONA,06/01/2023,Día de Reyes,national
+BARCELONA,07/04/2023,Viernes Santo,national
+BARCELONA,10/04/2023,Lunes de Pascua,regional
+BARCELONA,01/05/2023,Día Del Trabajo,national
+BARCELONA,05/06/2023,Pascua Granada,local
+BARCELONA,24/06/2023,San Juan,regional
+BARCELONA,15/08/2023,Asunción de la Virgen,national
+BARCELONA,11/09/2023,Día de Cataluña,regional
+BARCELONA,24/09/2023,La Mercè(se traslada al lunes),local
+BARCELONA,12/10/2023,Fiesta Nacional Española,national
+BARCELONA,01/11/2023,Día de Todos los Santos,national
+BARCELONA,06/12/2023,Día de la Constitución Española,national
+BARCELONA,08/12/2023,Inmaculada Concepción,national
+BARCELONA,25/12/2023,Navidad,national
+BARCELONA,26/12/2023,San Esteban,regional
+BILBAO,06/01/2023,Día de Reyes,national
+BILBAO,06/04/2023,Jueves Santo,regional
+BILBAO,07/04/2023,Viernes Santo,national
+BILBAO,10/04/2023,Lunes de Pascua,regional
+BILBAO,01/05/2023,Día Del Trabajo,national
+BILBAO,25/07/2023,Santiago Apostol,regional
+BILBAO,31/07/2023,San Ignacio Loyola,local
+BILBAO,15/08/2023,Asunción de la Virgen,national
+BILBAO,25/08/2023,Viernes Semana Grande,local
+BILBAO,12/10/2023,Fiesta Nacional Española,national
+BILBAO,01/11/2023,Día de Todos los Santos,national
+BILBAO,06/12/2023,Día de la Constitución Española,national
+BILBAO,08/12/2023,Inmaculada Concepción,national
+BILBAO,25/12/2023,Navidad,national
+BURGOS,01/01/2023,Año Nuevo(se traslada al lunes),regional
+BURGOS,06/01/2023,Día de Reyes,national
+BURGOS,06/04/2023,Jueves Santo,regional
+BURGOS,07/04/2023,Viernes Santo,national
+BURGOS,01/05/2023,Día Del Trabajo,national
+BURGOS,16/06/2023,Curpillos,local
+BURGOS,29/06/2023,Corpus Chico,local
+BURGOS,25/07/2023,Santiago Apostol,regional
+BURGOS,15/08/2023,Asunción de la Virgen,national
+BURGOS,12/10/2023,Fiesta Nacional Española,national
+BURGOS,01/11/2023,Día de Todos los Santos,national
+BURGOS,06/12/2023,Día de la Constitución Española,national
+BURGOS,08/12/2023,Inmaculada Concepción,national
+BURGOS,25/12/2023,Navidad,national
+CACERES,06/01/2023,Día de Reyes,national
+CACERES,21/02/2023,Martes de Carnaval,regional
+CACERES,06/04/2023,Jueves Santo,regional
+CACERES,07/04/2023,Viernes Santo,national
+CACERES,24/04/2023,San Jorge,local
+CACERES,01/05/2023,Día Del Trabajo,national
+CACERES,26/05/2023,Ferias y Fiestas San Fernando,local
+CACERES,15/08/2023,Asunción de la Virgen,national
+CACERES,08/09/2023,Día de Extremadura,regional
+CACERES,12/10/2023,Fiesta Nacional Española,national
+CACERES,01/11/2023,Día de Todos los Santos,national
+CACERES,06/12/2023,Día de la Constitución Española,national
+CACERES,08/12/2023,Inmaculada Concepción,national
+CACERES,25/12/2023,Navidad,national
+CADIZ,01/01/2023,Año Nuevo(se traslada al lunes),regional
+CADIZ,06/01/2023,Día de Reyes,national
+CADIZ,20/02/2023,CARNAVAL,local
+CADIZ,28/02/2023,Día de Andalucía,regional
+CADIZ,06/04/2023,Jueves Santo,regional
+CADIZ,07/04/2023,Viernes Santo,national
+CADIZ,01/05/2023,Día Del Trabajo,national
+CADIZ,15/08/2023,Asunción de la Virgen,national
+CADIZ,07/10/2023,Virgen del Rosario,local
+CADIZ,12/10/2023,Fiesta Nacional Española,national
+CADIZ,01/11/2023,Día de Todos los Santos,national
+CADIZ,06/12/2023,Día de la Constitución Española,national
+CADIZ,08/12/2023,Inmaculada Concepción,national
+CADIZ,25/12/2023,Navidad,national
+CANTABRIA,06/01/2023,Día de Reyes,national
+CANTABRIA,06/04/2023,Jueves Santo,regional
+CANTABRIA,07/04/2023,Viernes Santo,national
+CANTABRIA,01/05/2023,Día Del Trabajo,national
+CANTABRIA,28/07/2023,Día de las Instituciones,regional
+CANTABRIA,15/08/2023,Asunción de la Virgen,national
+CANTABRIA,15/09/2023,Día de la Bien Aparecida,regional
+CANTABRIA,12/10/2023,Fiesta Nacional Española,national
+CANTABRIA,01/11/2023,Día de Todos los Santos,national
+CANTABRIA,06/12/2023,Día de la Constitución Española,national
+CANTABRIA,08/12/2023,Inmaculada Concepción,national
+CANTABRIA,25/12/2023,Navidad,national
+CASTELLON,06/01/2023,Día de Reyes,national
+CASTELLON,13/03/2023,Fiestas de la Magdalena,local
+CASTELLON,07/04/2023,Viernes Santo,national
+CASTELLON,10/04/2023,Lunes de Pascua,regional
+CASTELLON,01/05/2023,Día Del Trabajo,national
+CASTELLON,24/06/2023,San juan,regional
+CASTELLON,29/06/2023,San Pedro,local
+CASTELLON,15/08/2023,Asunción de la Virgen,national
+CASTELLON,09/10/2023,Día de la Comunidad Valenciana,regional
+CASTELLON,12/10/2023,Fiesta Nacional Española,national
+CASTELLON,01/11/2023,Día de Todos los Santos,national
+CASTELLON,06/12/2023,Día de la Constitución Española,national
+CASTELLON,08/12/2023,Inmaculada Concepción,national
+CASTELLON,25/12/2023,Navidad,national
+CEUTA,06/01/2023,Día de Reyes,national
+CEUTA,06/04/2023,Jueves Santo,regional
+CEUTA,07/04/2023,Viernes Santo,national
+CEUTA,01/05/2023,Día Del Trabajo,national
+CEUTA,13/06/2023,San Antonio,local
+CEUTA,29/06/2023,Fiesta del Sacrificio Eidul-Adha,local
+CEUTA,05/08/2023,Nuestra Sra. de África,regional
+CEUTA,15/08/2023,Asunción de la Virgen,national
+CEUTA,02/09/2023,Día de Ceuta,regional
+CEUTA,12/10/2023,Fiesta Nacional Española,national
+CEUTA,01/11/2023,Día de Todos los Santos,national
+CEUTA,06/12/2023,Día de la Constitución Española,national
+CEUTA,08/12/2023,Inmaculada Concepción,national
+CEUTA,25/12/2023,Navidad,national
+CIUDAD_REAL,06/01/2023,Día de Reyes,national
+CIUDAD_REAL,06/04/2023,Jueves Santo,regional
+CIUDAD_REAL,07/04/2023,Viernes Santo,national
+CIUDAD_REAL,01/05/2023,Día Del Trabajo,national
+CIUDAD_REAL,31/05/2023,Día de la Región de Castilla la Mancha,regional
+CIUDAD_REAL,05/06/2023,Ntra. Sra. de Alarcos,local
+CIUDAD_REAL,08/06/2023,Corpus Christi,regional
+CIUDAD_REAL,15/08/2023,Asunción de la Virgen,national
+CIUDAD_REAL,22/08/2023,Octava de la Virgen del Prado,local
+CIUDAD_REAL,12/10/2023,Fiesta Nacional Española,national
+CIUDAD_REAL,01/11/2023,Día de Todos los Santos,national
+CIUDAD_REAL,06/12/2023,Día de la Constitución Española,national
+CIUDAD_REAL,08/12/2023,Inmaculada Concepción,national
+CIUDAD_REAL,25/12/2023,Navidad,national
+CORDOBA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+CORDOBA,06/01/2023,Día de Reyes,national
+CORDOBA,28/02/2023,Día de Andalucía,regional
+CORDOBA,06/04/2023,Jueves Santo,regional
+CORDOBA,07/04/2023,Viernes Santo,national
+CORDOBA,01/05/2023,Día Del Trabajo,national
+CORDOBA,15/08/2023,Asunción de la Virgen,national
+CORDOBA,08/09/2023,Virgen de Guadalupe,local
+CORDOBA,12/10/2023,Fiesta Nacional Española,national
+CORDOBA,24/10/2023,San Rafael,local
+CORDOBA,01/11/2023,Día de Todos los Santos,national
+CORDOBA,06/12/2023,Día de la Constitución Española,national
+CORDOBA,08/12/2023,Inmaculada Concepción,national
+CORDOBA,25/12/2023,Navidad,national
+LA_CORUNA,06/01/2023,Día de Reyes,national
+LA_CORUNA,21/02/2023,Martes de Carnaval,local
+LA_CORUNA,06/04/2023,Jueves Santo,regional
+LA_CORUNA,07/04/2023,Viernes Santo,national
+LA_CORUNA,01/05/2023,Día Del Trabajo,national
+LA_CORUNA,17/05/2023,Día de las letras gallegas,regional
+LA_CORUNA,24/06/2023,San Xoan,local
+LA_CORUNA,25/07/2023,Santiago Apostol,regional
+LA_CORUNA,15/08/2023,Asunción de la Virgen,national
+LA_CORUNA,12/10/2023,Fiesta Nacional Española,national
+LA_CORUNA,01/11/2023,Día de Todos los Santos,national
+LA_CORUNA,06/12/2023,Día de la Constitución Española,national
+LA_CORUNA,08/12/2023,Inmaculada Concepción,national
+LA_CORUNA,25/12/2023,Navidad,national
+CUENCA,06/01/2023,Día de Reyes,national
+CUENCA,06/04/2023,Jueves Santo,regional
+CUENCA,07/04/2023,Viernes Santo,national
+CUENCA,01/05/2023,Día Del Trabajo,national
+CUENCA,31/05/2023,Día de la Región de Castilla la Mancha,regional
+CUENCA,01/06/2023,Virgen de la Luz,local
+CUENCA,08/06/2023,Corpus Christi,regional
+CUENCA,15/08/2023,Asunción de la Virgen,national
+CUENCA,21/09/2023,San Mateo,local
+CUENCA,12/10/2023,Fiesta Nacional Española,national
+CUENCA,01/11/2023,Día de Todos los Santos,national
+CUENCA,06/12/2023,Día de la Constitución Española,national
+CUENCA,08/12/2023,Inmaculada Concepción,national
+CUENCA,25/12/2023,Navidad,national
+GIJON,01/01/2023,Año Nuevo(se traslada al lunes),regional
+GIJON,06/01/2023,Día de Reyes,national
+GIJON,21/02/2023,Carnaval Antroxu,local
+GIJON,06/04/2023,Jueves Santo,regional
+GIJON,07/04/2023,Viernes Santo,national
+GIJON,01/05/2023,Día Del Trabajo,national
+GIJON,29/06/2023,San Pedro,local
+GIJON,15/08/2023,Asunción de la Virgen,national
+GIJON,08/09/2023,Día de Asturias,regional
+GIJON,12/10/2023,Fiesta Nacional Española,national
+GIJON,01/11/2023,Día de Todos los Santos,national
+GIJON,06/12/2023,Día de la Constitución Española,national
+GIJON,08/12/2023,Inmaculada Concepción,national
+GIJON,25/12/2023,Navidad,national
+GIRONA,06/01/2023,Día de Reyes,national
+GIRONA,07/04/2023,Viernes Santo,national
+GIRONA,10/04/2023,Lunes de Pascua,regional
+GIRONA,01/05/2023,Día Del Trabajo,national
+GIRONA,24/06/2023,San Juan,regional
+GIRONA,25/07/2023,Sant Jaume,local
+GIRONA,15/08/2023,Asunción de la Virgen,national
+GIRONA,11/09/2023,Día de Cataluña,regional
+GIRONA,12/10/2023,Fiesta Nacional Española,national
+GIRONA,29/10/2023,Sant Narcís(se traslada al lunes),local
+GIRONA,01/11/2023,Día de Todos los Santos,national
+GIRONA,06/12/2023,Día de la Constitución Española,national
+GIRONA,08/12/2023,Inmaculada Concepción,national
+GIRONA,25/12/2023,Navidad,national
+GIRONA,26/12/2023,San Esteban,regional
+GRANADA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+GRANADA,06/01/2023,Día de Reyes,national
+GRANADA,28/02/2023,Día de Andalucía,regional
+GRANADA,06/04/2023,Jueves Santo,regional
+GRANADA,07/04/2023,Viernes Santo,national
+GRANADA,01/05/2023,Día Del Trabajo,national
+GRANADA,26/05/2023,Mariana Pineda,local
+GRANADA,08/06/2023,Corpus Christi,local
+GRANADA,15/08/2023,Asunción de la Virgen,national
+GRANADA,12/10/2023,Fiesta Nacional Española,national
+GRANADA,01/11/2023,Día de Todos los Santos,national
+GRANADA,06/12/2023,Día de la Constitución Española,national
+GRANADA,08/12/2023,Inmaculada Concepción,national
+GRANADA,25/12/2023,Navidad,national
+GUADALAJARA,06/01/2023,Día de Reyes,national
+GUADALAJARA,06/04/2023,Jueves Santo,regional
+GUADALAJARA,07/04/2023,Viernes Santo,national
+GUADALAJARA,01/05/2023,Día Del Trabajo,national
+GUADALAJARA,31/05/2023,Día de la Región de Castilla la Mancha,regional
+GUADALAJARA,08/06/2023,Corpus Christi,regional
+GUADALAJARA,15/08/2023,Asunción de la Virgen,national
+GUADALAJARA,08/09/2023,Virgen de la Antigua,local
+GUADALAJARA,15/09/2023,Viernes de Ferias,local
+GUADALAJARA,12/10/2023,Fiesta Nacional Española,national
+GUADALAJARA,01/11/2023,Día de Todos los Santos,national
+GUADALAJARA,06/12/2023,Día de la Constitución Española,national
+GUADALAJARA,08/12/2023,Inmaculada Concepción,national
+GUADALAJARA,25/12/2023,Navidad,national
+GUIPUZCOA,06/01/2023,Día de Reyes,national
+GUIPUZCOA,06/04/2023,Jueves Santo,regional
+GUIPUZCOA,07/04/2023,Viernes Santo,national
+GUIPUZCOA,10/04/2023,Lunes de Pascua,regional
+GUIPUZCOA,01/05/2023,Día Del Trabajo,national
+GUIPUZCOA,25/07/2023,Santiago Apostol,regional
+GUIPUZCOA,31/07/2023,San Ignacio Loyola,local
+GUIPUZCOA,15/08/2023,Asunción de la Virgen,national
+GUIPUZCOA,12/10/2023,Fiesta Nacional Española,national
+GUIPUZCOA,01/11/2023,Día de Todos los Santos,national
+GUIPUZCOA,06/12/2023,Día de la Constitución Española,national
+GUIPUZCOA,08/12/2023,Inmaculada Concepción,national
+GUIPUZCOA,25/12/2023,Navidad,national
+HUELVA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+HUELVA,06/01/2023,Día de Reyes,national
+HUELVA,28/02/2023,Día de Andalucía,regional
+HUELVA,06/04/2023,Jueves Santo,regional
+HUELVA,07/04/2023,Viernes Santo,national
+HUELVA,01/05/2023,Día Del Trabajo,national
+HUELVA,03/08/2023,Fiestas Colombinas,local
+HUELVA,15/08/2023,Asunción de la Virgen,national
+HUELVA,08/09/2023,Nuestra Señora de la Cinta,local
+HUELVA,12/10/2023,Fiesta Nacional Española,national
+HUELVA,01/11/2023,Día de Todos los Santos,national
+HUELVA,06/12/2023,Día de la Constitución Española,national
+HUELVA,08/12/2023,Inmaculada Concepción,national
+HUELVA,25/12/2023,Navidad,national
+HUESCA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+HUESCA,06/01/2023,Día de Reyes,national
+HUESCA,22/01/2023,San Vicente(se traslada al lunes),local
+HUESCA,06/04/2023,Jueves Santo,regional
+HUESCA,07/04/2023,Viernes Santo,national
+HUESCA,23/04/2023,San Jorge. Día de Aragón(se traslada al lunes),regional
+HUESCA,01/05/2023,Día Del Trabajo,national
+HUESCA,10/08/2023,San Lorenzo,local
+HUESCA,15/08/2023,Asunción de la Virgen,national
+HUESCA,12/10/2023,Fiesta Nacional Española,national
+HUESCA,01/11/2023,Día de Todos los Santos,national
+HUESCA,06/12/2023,Día de la Constitución Española,national
+HUESCA,08/12/2023,Inmaculada Concepción,national
+HUESCA,25/12/2023,Navidad,national
+JAEN,01/01/2023,Año Nuevo(se traslada al lunes),regional
+JAEN,06/01/2023,Día de Reyes,national
+JAEN,28/02/2023,Día de Andalucía,regional
+JAEN,06/04/2023,Jueves Santo,regional
+JAEN,07/04/2023,Viernes Santo,national
+JAEN,01/05/2023,Día Del Trabajo,national
+JAEN,15/08/2023,Asunción de la Virgen,national
+JAEN,12/10/2023,Fiesta Nacional Española,national
+JAEN,18/10/2023,San Lucas,local
+JAEN,01/11/2023,Día de Todos los Santos,national
+JAEN,25/11/2023,Fiesta Local,local
+JAEN,06/12/2023,Día de la Constitución Española,national
+JAEN,08/12/2023,Inmaculada Concepción,national
+JAEN,25/12/2023,Navidad,national
+LEON,01/01/2023,Año Nuevo(se traslada al lunes),regional
+LEON,06/01/2023,Día de Reyes,national
+LEON,06/04/2023,Jueves Santo,regional
+LEON,07/04/2023,Viernes Santo,national
+LEON,01/05/2023,Día Del Trabajo,national
+LEON,24/06/2023,San Juan,local
+LEON,25/07/2023,Santiago Apostol,regional
+LEON,15/08/2023,Asunción de la Virgen,national
+LEON,05/10/2023,San Freulan,local
+LEON,12/10/2023,Fiesta Nacional Española,national
+LEON,01/11/2023,Día de Todos los Santos,national
+LEON,06/12/2023,Día de la Constitución Española,national
+LEON,08/12/2023,Inmaculada Concepción,national
+LEON,25/12/2023,Navidad,national
+LLEIDA,06/01/2023,Día de Reyes,national
+LLEIDA,07/04/2023,Viernes Santo,national
+LLEIDA,10/04/2023,Lunes de Pascua,regional
+LLEIDA,01/05/2023,Día Del Trabajo,national
+LLEIDA,11/05/2023,Fiesta Mayor San Anastasi,local
+LLEIDA,24/06/2023,San Juan,regional
+LLEIDA,15/08/2023,Asunción de la Virgen,national
+LLEIDA,11/09/2023,Día de Cataluña,regional
+LLEIDA,29/09/2023,San Miguel,local
+LLEIDA,12/10/2023,Fiesta Nacional Española,national
+LLEIDA,01/11/2023,Día de Todos los Santos,national
+LLEIDA,06/12/2023,Día de la Constitución Española,national
+LLEIDA,08/12/2023,Inmaculada Concepción,national
+LLEIDA,25/12/2023,Navidad,national
+LLEIDA,26/12/2023,San Esteban,regional
+LOGRONO,06/01/2023,Día de Reyes,national
+LOGRONO,06/04/2023,Jueves Santo,regional
+LOGRONO,07/04/2023,Viernes Santo,national
+LOGRONO,10/04/2023,Lunes de Pascua,regional
+LOGRONO,01/05/2023,Día Del Trabajo,national
+LOGRONO,09/06/2023,Día de La Rioja,regional
+LOGRONO,11/06/2023,San Barnabé(se traslada al lunes),local
+LOGRONO,15/08/2023,Asunción de la Virgen,national
+LOGRONO,21/09/2023,San Mateo,local
+LOGRONO,12/10/2023,Fiesta Nacional Española,national
+LOGRONO,01/11/2023,Día de Todos los Santos,national
+LOGRONO,06/12/2023,Día de la Constitución Española,national
+LOGRONO,08/12/2023,Inmaculada Concepción,national
+LOGRONO,25/12/2023,Navidad,national
+LUGO,06/01/2023,Día de Reyes,national
+LUGO,21/02/2023,Martes de entroido,local
+LUGO,06/04/2023,Jueves Santo,regional
+LUGO,07/04/2023,Viernes Santo,national
+LUGO,01/05/2023,Día Del Trabajo,national
+LUGO,17/05/2023,Día de las letras gallegas,regional
+LUGO,25/07/2023,Santiago Apostol,regional
+LUGO,15/08/2023,Asunción de la Virgen,national
+LUGO,05/10/2023,San Froilán,local
+LUGO,12/10/2023,Fiesta Nacional Española,national
+LUGO,01/11/2023,Día de Todos los Santos,national
+LUGO,06/12/2023,Día de la Constitución Española,national
+LUGO,08/12/2023,Inmaculada Concepción,national
+LUGO,25/12/2023,Navidad,national
+MADRID,06/01/2023,Día de Reyes,national
+MADRID,19/03/2023,San José(se traslada al lunes),regional
+MADRID,06/04/2023,Jueves Santo,regional
+MADRID,07/04/2023,Viernes Santo,national
+MADRID,01/05/2023,Día Del Trabajo,national
+MADRID,02/05/2023,Día de la Comunidad de Madrid,regional
+MADRID,15/05/2023,San Isidro,local
+MADRID,15/08/2023,Asunción de la Virgen,national
+MADRID,12/10/2023,Fiesta Nacional Española,national
+MADRID,01/11/2023,Día de Todos los Santos,national
+MADRID,09/11/2023,Fiesta de la Almudena,local
+MADRID,06/12/2023,Día de la Constitución Española,national
+MADRID,08/12/2023,Inmaculada Concepción,national
+MADRID,25/12/2023,Navidad,national
+MALAGA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+MALAGA,06/01/2023,Día de Reyes,national
+MALAGA,28/02/2023,Día de Andalucía,regional
+MALAGA,06/04/2023,Jueves Santo,regional
+MALAGA,07/04/2023,Viernes Santo,national
+MALAGA,01/05/2023,Día Del Trabajo,national
+MALAGA,15/08/2023,Asunción de la Virgen,national
+MALAGA,19/08/2023,Toma de Málaga por los Reyes Cátolicos,local
+MALAGA,08/09/2023,Virgen de la Victoria,local
+MALAGA,12/10/2023,Fiesta Nacional Española,national
+MALAGA,01/11/2023,Día de Todos los Santos,national
+MALAGA,06/12/2023,Día de la Constitución Española,national
+MALAGA,08/12/2023,Inmaculada Concepción,national
+MALAGA,25/12/2023,Navidad,national
+MELILLA,06/01/2023,Día de Reyes,national
+MELILLA,06/04/2023,Jueves Santo,regional
+MELILLA,07/04/2023,Viernes Santo,national
+MELILLA,21/04/2023,Fiesta del Eid Fitr,local
+MELILLA,01/05/2023,Día Del Trabajo,national
+MELILLA,29/06/2023,Fiesta del Sacrificio,regional
+MELILLA,15/08/2023,Asunción de la Virgen,national
+MELILLA,08/09/2023,María Del Rosario,regional
+MELILLA,17/09/2023,Día de Melilla(se traslada al lunes),regional
+MELILLA,12/10/2023,Fiesta Nacional Española,national
+MELILLA,01/11/2023,Día de Todos los Santos,national
+MELILLA,06/12/2023,Día de la Constitución Española,national
+MELILLA,08/12/2023,Inmaculada Concepción,national
+MELILLA,25/12/2023,Navidad,national
+MURCIA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+MURCIA,06/01/2023,Día de Reyes,national
+MURCIA,06/04/2023,Jueves Santo,regional
+MURCIA,07/04/2023,Viernes Santo,national
+MURCIA,11/04/2023,Fiesta local,local
+MURCIA,01/05/2023,Día Del Trabajo,national
+MURCIA,09/06/2023,Día de la Región de Murcia,regional
+MURCIA,15/08/2023,Asunción de la Virgen,national
+MURCIA,12/09/2023,Fiesta local,local
+MURCIA,12/10/2023,Fiesta Nacional Española,national
+MURCIA,01/11/2023,Día de Todos los Santos,national
+MURCIA,06/12/2023,Día de la Constitución Española,national
+MURCIA,08/12/2023,Inmaculada Concepción,national
+MURCIA,25/12/2023,Navidad,national
+NAVARRA,06/01/2023,Día de Reyes,national
+NAVARRA,19/03/2023,San José(se traslada al lunes),regional
+NAVARRA,06/04/2023,Jueves Santo,regional
+NAVARRA,07/04/2023,Viernes Santo,national
+NAVARRA,10/04/2023,Lunes de Pascua,regional
+NAVARRA,01/05/2023,Día Del Trabajo,national
+NAVARRA,25/07/2023,Santiago Apostol,regional
+NAVARRA,15/08/2023,Asunción de la Virgen,national
+NAVARRA,12/10/2023,Fiesta Nacional Española,national
+NAVARRA,01/11/2023,Día de Todos los Santos,national
+NAVARRA,03/12/2023,Santiago Apostol(se traslada al lunes),local
+NAVARRA,06/12/2023,Día de la Constitución Española,national
+NAVARRA,08/12/2023,Inmaculada Concepción,national
+NAVARRA,25/12/2023,Navidad,national
+OURENSE,06/01/2023,Día de Reyes,national
+OURENSE,21/02/2023,Martes de Entroido,local
+OURENSE,06/04/2023,Jueves Santo,regional
+OURENSE,07/04/2023,Viernes Santo,national
+OURENSE,01/05/2023,Día Del Trabajo,national
+OURENSE,17/05/2023,Día de las letras gallegas,regional
+OURENSE,25/07/2023,Santiago Apostol,regional
+OURENSE,15/08/2023,Asunción de la Virgen,national
+OURENSE,12/10/2023,Fiesta Nacional Española,national
+OURENSE,01/11/2023,Día de Todos los Santos,national
+OURENSE,11/11/2023,San Martín,local
+OURENSE,06/12/2023,Día de la Constitución Española,national
+OURENSE,08/12/2023,Inmaculada Concepción,national
+OURENSE,25/12/2023,Navidad,national
+OVIEDO,01/01/2023,Año Nuevo(se traslada al lunes),regional
+OVIEDO,06/01/2023,Día de Reyes,national
+OVIEDO,06/04/2023,Jueves Santo,regional
+OVIEDO,07/04/2023,Viernes Santo,national
+OVIEDO,01/05/2023,Día Del Trabajo,national
+OVIEDO,30/05/2023,Martes de Campo,local
+OVIEDO,15/08/2023,Asunción de la Virgen,national
+OVIEDO,08/09/2023,Día de Asturias,regional
+OVIEDO,21/09/2023,San Mateo,local
+OVIEDO,12/10/2023,Fiesta Nacional Española,national
+OVIEDO,01/11/2023,Día de Todos los Santos,national
+OVIEDO,06/12/2023,Día de la Constitución Española,national
+OVIEDO,08/12/2023,Inmaculada Concepción,national
+OVIEDO,25/12/2023,Navidad,national
+PALENCIA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+PALENCIA,06/01/2023,Día de Reyes,national
+PALENCIA,02/02/2023,Virgen de la Calle,local
+PALENCIA,06/04/2023,Jueves Santo,regional
+PALENCIA,07/04/2023,Viernes Santo,national
+PALENCIA,01/05/2023,Día Del Trabajo,national
+PALENCIA,25/07/2023,Santiago Apostol,regional
+PALENCIA,15/08/2023,Asunción de la Virgen,national
+PALENCIA,02/09/2023,San Antolín,local
+PALENCIA,12/10/2023,Fiesta Nacional Española,national
+PALENCIA,01/11/2023,Día de Todos los Santos,national
+PALENCIA,06/12/2023,Día de la Constitución Española,national
+PALENCIA,08/12/2023,Inmaculada Concepción,national
+PALENCIA,25/12/2023,Navidad,national
+PALMA_DE_MALLORCA,06/01/2023,Día de Reyes,national
+PALMA_DE_MALLORCA,20/01/2023,San Sebastián,local
+PALMA_DE_MALLORCA,01/03/2023,Día de las Islas Baleares,regional
+PALMA_DE_MALLORCA,06/04/2023,Jueves Santo,regional
+PALMA_DE_MALLORCA,07/04/2023,Viernes Santo,national
+PALMA_DE_MALLORCA,10/04/2023,Lunes de Pascua,regional
+PALMA_DE_MALLORCA,01/05/2023,Día Del Trabajo,national
+PALMA_DE_MALLORCA,15/08/2023,Asunción de la Virgen,national
+PALMA_DE_MALLORCA,12/10/2023,Fiesta Nacional Española,national
+PALMA_DE_MALLORCA,01/11/2023,Día de Todos los Santos,national
+PALMA_DE_MALLORCA,06/12/2023,Día de la Constitución Española,national
+PALMA_DE_MALLORCA,08/12/2023,Inmaculada Concepción,national
+PALMA_DE_MALLORCA,25/12/2023,Navidad,national
+PALMA_DE_MALLORCA,26/12/2023,San Esteban,local
+LAS_PALMAS,06/01/2023,Día de Reyes,national
+LAS_PALMAS,21/02/2023,Martes de Carnaval,local
+LAS_PALMAS,06/04/2023,Jueves Santo,regional
+LAS_PALMAS,07/04/2023,Viernes Santo,national
+LAS_PALMAS,01/05/2023,Día Del Trabajo,national
+LAS_PALMAS,30/05/2023,Día de Canarias,regional
+LAS_PALMAS,24/06/2023,fiestas fundacionales de la ciudad,local
+LAS_PALMAS,15/08/2023,Asunción de la Virgen,national
+LAS_PALMAS,08/09/2023,Festividad de nuestra Sra del Pino,local
+LAS_PALMAS,12/10/2023,Fiesta Nacional Española,national
+LAS_PALMAS,01/11/2023,Día de Todos los Santos,national
+LAS_PALMAS,06/12/2023,Día de la Constitución Española,national
+LAS_PALMAS,08/12/2023,Inmaculada Concepción,national
+LAS_PALMAS,25/12/2023,Navidad,national
+PAMPLONA,06/01/2023,Día de Reyes,national
+PAMPLONA,19/03/2023,San José(se traslada al lunes),regional
+PAMPLONA,06/04/2023,Jueves Santo,regional
+PAMPLONA,07/04/2023,Viernes Santo,national
+PAMPLONA,10/04/2023,Lunes de Pascua,regional
+PAMPLONA,01/05/2023,Día Del Trabajo,national
+PAMPLONA,25/07/2023,Santiago Apostol,regional
+PAMPLONA,15/08/2023,Asunción de la Virgen,national
+PAMPLONA,12/10/2023,Fiesta Nacional Española,national
+PAMPLONA,01/11/2023,Día de Todos los Santos,national
+PAMPLONA,29/11/2023,San Saturnino,local
+PAMPLONA,03/12/2023,Santiago Apóstol(se traslada al lunes),local
+PAMPLONA,06/12/2023,Día de la Constitución Española,national
+PAMPLONA,08/12/2023,Inmaculada Concepción,national
+PAMPLONA,25/12/2023,Navidad,national
+PONTEVEDRA,06/01/2023,Día de Reyes,national
+PONTEVEDRA,22/02/2023,Miércoles de Ceniza,local
+PONTEVEDRA,06/04/2023,Jueves Santo,regional
+PONTEVEDRA,07/04/2023,Viernes Santo,national
+PONTEVEDRA,01/05/2023,Día Del Trabajo,national
+PONTEVEDRA,17/05/2023,Día de las letras gallegas,regional
+PONTEVEDRA,11/07/2023,San Benito,local
+PONTEVEDRA,25/07/2023,Santiago Apostol,regional
+PONTEVEDRA,15/08/2023,Asunción de la Virgen,national
+PONTEVEDRA,12/10/2023,Fiesta Nacional Española,national
+PONTEVEDRA,01/11/2023,Día de Todos los Santos,national
+PONTEVEDRA,06/12/2023,Día de la Constitución Española,national
+PONTEVEDRA,08/12/2023,Inmaculada Concepción,national
+PONTEVEDRA,25/12/2023,Navidad,national
+LA_RIOJA,06/01/2023,Día de Reyes,national
+LA_RIOJA,06/04/2023,Jueves Santo,regional
+LA_RIOJA,07/04/2023,Viernes Santo,national
+LA_RIOJA,10/04/2023,Lunes de Pascua,regional
+LA_RIOJA,01/05/2023,Día Del Trabajo,national
+LA_RIOJA,09/06/2023,Día de La Rioja,regional
+LA_RIOJA,15/08/2023,Asunción de la Virgen,national
+LA_RIOJA,12/10/2023,Fiesta Nacional Española,national
+LA_RIOJA,01/11/2023,Día de Todos los Santos,national
+LA_RIOJA,06/12/2023,Día de la Constitución Española,national
+LA_RIOJA,08/12/2023,Inmaculada Concepción,national
+LA_RIOJA,25/12/2023,Navidad,national
+SALAMANCA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+SALAMANCA,06/01/2023,Día de Reyes,national
+SALAMANCA,06/04/2023,Jueves Santo,regional
+SALAMANCA,07/04/2023,Viernes Santo,national
+SALAMANCA,01/05/2023,Día Del Trabajo,national
+SALAMANCA,12/06/2023,San Juan de Sahagún,local
+SALAMANCA,25/07/2023,Santiago Apostol,regional
+SALAMANCA,15/08/2023,Asunción de la Virgen,national
+SALAMANCA,08/09/2023,Virgen de la Vega,local
+SALAMANCA,12/10/2023,Fiesta Nacional Española,national
+SALAMANCA,01/11/2023,Día de Todos los Santos,national
+SALAMANCA,06/12/2023,Día de la Constitución Española,national
+SALAMANCA,08/12/2023,Inmaculada Concepción,national
+SALAMANCA,25/12/2023,Navidad,national
+SAN_SEBASTIAN,06/01/2023,Día de Reyes,national
+SAN_SEBASTIAN,20/01/2023,San Sebastian,local
+SAN_SEBASTIAN,06/04/2023,Jueves Santo,regional
+SAN_SEBASTIAN,07/04/2023,Viernes Santo,national
+SAN_SEBASTIAN,10/04/2023,Lunes de Pascua,regional
+SAN_SEBASTIAN,01/05/2023,Día Del Trabajo,national
+SAN_SEBASTIAN,25/07/2023,Santiago Apostol,regional
+SAN_SEBASTIAN,31/07/2023,San Ignacio Loyola,local
+SAN_SEBASTIAN,15/08/2023,Asunción de la Virgen,national
+SAN_SEBASTIAN,12/10/2023,Fiesta Nacional Española,national
+SAN_SEBASTIAN,01/11/2023,Día de Todos los Santos,national
+SAN_SEBASTIAN,06/12/2023,Día de la Constitución Española,national
+SAN_SEBASTIAN,08/12/2023,Inmaculada Concepción,national
+SAN_SEBASTIAN,25/12/2023,Navidad,national
+SANTANDER,06/01/2023,Día de Reyes,national
+SANTANDER,06/04/2023,Jueves Santo,regional
+SANTANDER,07/04/2023,Viernes Santo,national
+SANTANDER,01/05/2023,Día Del Trabajo,national
+SANTANDER,25/07/2023,Santiago Apóstol,local
+SANTANDER,28/07/2023,Día de las Instituciones,regional
+SANTANDER,15/08/2023,Asunción de la Virgen,national
+SANTANDER,30/08/2023,Santos Mártires,local
+SANTANDER,15/09/2023,Día de la Bien Aparecida,regional
+SANTANDER,12/10/2023,Fiesta Nacional Española,national
+SANTANDER,01/11/2023,Día de Todos los Santos,national
+SANTANDER,06/12/2023,Día de la Constitución Española,national
+SANTANDER,08/12/2023,Inmaculada Concepción,national
+SANTANDER,25/12/2023,Navidad,national
+SEGOVIA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+SEGOVIA,06/01/2023,Día de Reyes,national
+SEGOVIA,06/04/2023,Jueves Santo,regional
+SEGOVIA,07/04/2023,Viernes Santo,national
+SEGOVIA,01/05/2023,Día Del Trabajo,national
+SEGOVIA,29/06/2023,San Pedro,local
+SEGOVIA,25/07/2023,Santiago Apostol,regional
+SEGOVIA,15/08/2023,Asunción de la Virgen,national
+SEGOVIA,12/10/2023,Fiesta Nacional Española,national
+SEGOVIA,25/10/2023,San Frutos,local
+SEGOVIA,01/11/2023,Día de Todos los Santos,national
+SEGOVIA,06/12/2023,Día de la Constitución Española,national
+SEGOVIA,08/12/2023,Inmaculada Concepción,national
+SEGOVIA,25/12/2023,Navidad,national
+SEVILLA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+SEVILLA,06/01/2023,Día de Reyes,national
+SEVILLA,28/02/2023,Día de Andalucía,regional
+SEVILLA,06/04/2023,Jueves Santo,regional
+SEVILLA,07/04/2023,Viernes Santo,national
+SEVILLA,26/04/2023,Miércoles de Feria,local
+SEVILLA,01/05/2023,Día Del Trabajo,national
+SEVILLA,08/06/2023,Corpus Christi,local
+SEVILLA,15/08/2023,Asunción de la Virgen,national
+SEVILLA,12/10/2023,Fiesta Nacional Española,national
+SEVILLA,01/11/2023,Día de Todos los Santos,national
+SEVILLA,06/12/2023,Día de la Constitución Española,national
+SEVILLA,08/12/2023,Inmaculada Concepción,national
+SEVILLA,25/12/2023,Navidad,national
+SORIA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+SORIA,06/01/2023,Día de Reyes,national
+SORIA,06/04/2023,Jueves Santo,regional
+SORIA,07/04/2023,Viernes Santo,national
+SORIA,01/05/2023,Día Del Trabajo,national
+SORIA,23/06/2023,Víspera de San Juan,local
+SORIA,29/06/2023,Jueves de la saca,local
+SORIA,25/07/2023,Santiago Apostol,regional
+SORIA,15/08/2023,Asunción de la Virgen,national
+SORIA,02/10/2023,San Saturio,local
+SORIA,12/10/2023,Fiesta Nacional Española,national
+SORIA,01/11/2023,Día de Todos los Santos,national
+SORIA,06/12/2023,Día de la Constitución Española,national
+SORIA,08/12/2023,Inmaculada Concepción,national
+SORIA,25/12/2023,Navidad,national
+TARRAGONA,06/01/2023,Día de Reyes,national
+TARRAGONA,07/04/2023,Viernes Santo,national
+TARRAGONA,10/04/2023,Lunes de Pascua,regional
+TARRAGONA,01/05/2023,Día Del Trabajo,national
+TARRAGONA,24/06/2023,San Juan,regional
+TARRAGONA,15/08/2023,Asunción de la Virgen,national
+TARRAGONA,19/08/2023,Sant Magí,local
+TARRAGONA,11/09/2023,Día de Cataluña,regional
+TARRAGONA,23/09/2023,La Mercè,local
+TARRAGONA,12/10/2023,Fiesta Nacional Española,national
+TARRAGONA,01/11/2023,Día de Todos los Santos,national
+TARRAGONA,06/12/2023,Día de la Constitución Española,national
+TARRAGONA,08/12/2023,Inmaculada Concepción,national
+TARRAGONA,25/12/2023,Navidad,national
+TARRAGONA,26/12/2023,San Esteban,regional
+TENERIFE,06/01/2023,Día de Reyes,national
+TENERIFE,21/02/2023,Martes de Carnaval,local
+TENERIFE,06/04/2023,Jueves Santo,regional
+TENERIFE,07/04/2023,Viernes Santo,national
+TENERIFE,01/05/2023,Día Del Trabajo,national
+TENERIFE,03/05/2023,Día de la Cruz,local
+TENERIFE,30/05/2023,Día de Canarias,regional
+TENERIFE,15/08/2023,Asunción de la Virgen,national
+TENERIFE,12/10/2023,Fiesta Nacional Española,national
+TENERIFE,01/11/2023,Día de Todos los Santos,national
+TENERIFE,06/12/2023,Día de la Constitución Española,national
+TENERIFE,08/12/2023,Inmaculada Concepción,national
+TENERIFE,25/12/2023,Navidad,national
+TERUEL,01/01/2023,Año Nuevo(se traslada al lunes),regional
+TERUEL,06/01/2023,Día de Reyes,national
+TERUEL,17/03/2023,Fiesta escolar,local
+TERUEL,06/04/2023,Jueves Santo,regional
+TERUEL,07/04/2023,Viernes Santo,national
+TERUEL,11/04/2023,Sermón de las Tortillas,local
+TERUEL,23/04/2023,San Jorge. Día de Aragón(se traslada al lunes),regional
+TERUEL,01/05/2023,Día Del Trabajo,national
+TERUEL,15/08/2023,Asunción de la Virgen,national
+TERUEL,12/10/2023,Fiesta Nacional Española,national
+TERUEL,01/11/2023,Día de Todos los Santos,national
+TERUEL,06/12/2023,Día de la Constitución Española,national
+TERUEL,08/12/2023,Inmaculada Concepción,national
+TERUEL,25/12/2023,Navidad,national
+TOLEDO,06/01/2023,Día de Reyes,national
+TOLEDO,23/01/2023,San Ildefonso,local
+TOLEDO,06/04/2023,Jueves Santo,regional
+TOLEDO,07/04/2023,Viernes Santo,national
+TOLEDO,10/04/2023,Lunes de Pascua,local
+TOLEDO,01/05/2023,Día Del Trabajo,national
+TOLEDO,31/05/2023,Día de la Región de Castilla la Mancha,regional
+TOLEDO,08/06/2023,Corpus Christi,regional
+TOLEDO,15/08/2023,Asunción de la Virgen,national
+TOLEDO,12/10/2023,Fiesta Nacional Española,national
+TOLEDO,01/11/2023,Día de Todos los Santos,national
+TOLEDO,06/12/2023,Día de la Constitución Española,national
+TOLEDO,08/12/2023,Inmaculada Concepción,national
+TOLEDO,25/12/2023,Navidad,national
+VALENCIA,06/01/2023,Día de Reyes,national
+VALENCIA,07/04/2023,Viernes Santo,national
+VALENCIA,10/04/2023,Lunes de Pascua,regional
+VALENCIA,17/04/2023,San Vicente Ferrer,local
+VALENCIA,24/04/2023,(Se traslada) San Vicente Mártir,local
+VALENCIA,01/05/2023,Día Del Trabajo,national
+VALENCIA,24/06/2023,San juan,regional
+VALENCIA,15/08/2023,Asunción de la Virgen,national
+VALENCIA,09/10/2023,Día de la Comunidad Valenciana,regional
+VALENCIA,12/10/2023,Fiesta Nacional Española,national
+VALENCIA,01/11/2023,Día de Todos los Santos,national
+VALENCIA,06/12/2023,Día de la Constitución Española,national
+VALENCIA,08/12/2023,Inmaculada Concepción,national
+VALENCIA,25/12/2023,Navidad,national
+VALLADOLID,01/01/2023,Año Nuevo(se traslada al lunes),regional
+VALLADOLID,06/01/2023,Día de Reyes,national
+VALLADOLID,06/04/2023,Jueves Santo,regional
+VALLADOLID,07/04/2023,Viernes Santo,national
+VALLADOLID,01/05/2023,Día Del Trabajo,national
+VALLADOLID,13/05/2023,San Pedro Regalado,local
+VALLADOLID,25/07/2023,Santiago Apostol,regional
+VALLADOLID,15/08/2023,Asunción de la Virgen,national
+VALLADOLID,08/09/2023,Nuestra Sra. de San Lorenzo,local
+VALLADOLID,12/10/2023,Fiesta Nacional Española,national
+VALLADOLID,01/11/2023,Día de Todos los Santos,national
+VALLADOLID,06/12/2023,Día de la Constitución Española,national
+VALLADOLID,08/12/2023,Inmaculada Concepción,national
+VALLADOLID,25/12/2023,Navidad,national
+VITORIA,06/01/2023,Día de Reyes,national
+VITORIA,06/04/2023,Jueves Santo,regional
+VITORIA,07/04/2023,Viernes Santo,national
+VITORIA,10/04/2023,Lunes de Pascua,regional
+VITORIA,01/05/2023,Día Del Trabajo,national
+VITORIA,25/07/2023,Santiago Apostol,regional
+VITORIA,15/08/2023,Asunción de la Virgen,national
+VITORIA,12/10/2023,Fiesta Nacional Española,national
+VITORIA,01/11/2023,Día de Todos los Santos,national
+VITORIA,06/12/2023,Día de la Constitución Española,national
+VITORIA,08/12/2023,Inmaculada Concepción,national
+VITORIA,25/12/2023,Navidad,national
+VIZCAYA,06/01/2023,Día de Reyes,national
+VIZCAYA,06/04/2023,Jueves Santo,regional
+VIZCAYA,07/04/2023,Viernes Santo,national
+VIZCAYA,10/04/2023,Lunes de Pascua,regional
+VIZCAYA,01/05/2023,Día Del Trabajo,national
+VIZCAYA,25/07/2023,Santiago Apostol,regional
+VIZCAYA,15/08/2023,Asunción de la Virgen,national
+VIZCAYA,12/10/2023,Fiesta Nacional Española,national
+VIZCAYA,01/11/2023,Día de Todos los Santos,national
+VIZCAYA,06/12/2023,Día de la Constitución Española,national
+VIZCAYA,08/12/2023,Inmaculada Concepción,national
+VIZCAYA,25/12/2023,Navidad,national
+ZAMORA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+ZAMORA,06/01/2023,Día de Reyes,national
+ZAMORA,06/04/2023,Jueves Santo,regional
+ZAMORA,07/04/2023,Viernes Santo,national
+ZAMORA,01/05/2023,Día Del Trabajo,national
+ZAMORA,29/05/2023,La Iniesta,local
+ZAMORA,29/06/2023,San Pedro,local
+ZAMORA,25/07/2023,Santiago Apostol,regional
+ZAMORA,15/08/2023,Asunción de la Virgen,national
+ZAMORA,12/10/2023,Fiesta Nacional Española,national
+ZAMORA,01/11/2023,Día de Todos los Santos,national
+ZAMORA,06/12/2023,Día de la Constitución Española,national
+ZAMORA,08/12/2023,Inmaculada Concepción,national
+ZAMORA,25/12/2023,Navidad,national
+ZARAGOZA,01/01/2023,Año Nuevo(se traslada al lunes),regional
+ZARAGOZA,06/01/2023,Día de Reyes,national
+ZARAGOZA,29/01/2023,San Valero(se traslada al lunes),local
+ZARAGOZA,05/03/2023,Cincomarzada(se traslada al lunes),local
+ZARAGOZA,06/04/2023,Jueves Santo,regional
+ZARAGOZA,07/04/2023,Viernes Santo,national
+ZARAGOZA,23/04/2023,San Jorge. Día de Aragón(se traslada al lunes),regional
+ZARAGOZA,01/05/2023,Día Del Trabajo,national
+ZARAGOZA,15/08/2023,Asunción de la Virgen,national
+ZARAGOZA,12/10/2023,Fiesta Nacional Española,national
+ZARAGOZA,01/11/2023,Día de Todos los Santos,national
+ZARAGOZA,06/12/2023,Día de la Constitución Española,national
+ZARAGOZA,08/12/2023,Inmaculada Concepción,national
+ZARAGOZA,25/12/2023,Navidad,national
