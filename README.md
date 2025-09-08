@@ -55,8 +55,9 @@ python src/DiasFestivos.py --help
 
 -   `src/DiasFestivos.py`: El script principal que genera los festivos.
 -   `src/requirements.txt`: Las dependencias de Python.
--   `data/festivos_provincias_2025.csv`: Fichero de ejemplo con los festivos del 2025.
--   `docs/IB.4. Festivos por Provincias.xlsx`: Fichero Excel que utiliza los datos del CSV.
+-   `data/`: Carpeta que contiene los ficheros CSV pre-generados (`festivos_provincias_AAAA.csv`) con los festivos de varios años.
+-   `docs/`: Carpeta con el fichero Excel de ejemplo que consume los datos de los CSV.
+-   `images/`: Carpeta con las imágenes de ejemplo utilizadas en este README.
 
 ## Agradecimientos
 
