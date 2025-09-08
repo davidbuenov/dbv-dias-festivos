@@ -17,8 +17,8 @@ Este proyecto genera un fichero CSV con los días festivos de todas las provinci
 
 1.  Clona este repositorio:
     ```bash
-    git clone <URL-DEL-REPOSITORIO>
-    cd <NOMBRE-DEL-REPOSITORIO>
+    git clone https://github.com/davidbuenov/dbv-dias-festivos.git
+    cd dbv-dias-festivos
     ```
 
 2.  Crea un entorno virtual e instálalo:
